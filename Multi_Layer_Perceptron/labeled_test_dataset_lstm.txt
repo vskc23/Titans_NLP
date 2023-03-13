@@ -1,5 +1,5 @@
 Rockwell NN
-International PRP$
+International PRP
 Corp. JJ
 's ``
 Tulsa ``
@@ -151,7 +151,7 @@ Carlucci IN
 , ,
 59 CD
 years NNS
-old PRP$
+old PRP
 , ,
 served NNS
 as IN
@@ -195,7 +195,7 @@ Meador NNP
 , ,
 42 CD
 years NNS
-old PRP$
+old PRP
 , ,
 was IN
 named IN
@@ -295,7 +295,7 @@ president RB
 
 Shearson NN
 is NN
-about PRP$
+about PRP
 60%-held NN
 by CD
 American VBD
@@ -492,7 +492,7 @@ general NN
 and NN
 administrative NN
 expenses NN
-from PRP$
+from PRP
 staff NNP
 reductions JJ
 and POS
@@ -699,12 +699,12 @@ executives NNP
 would IN
 still IN
 get JJ
-about PRP$
+about PRP
 $ VBZ
 25 CD
 million NN
 less NN
-than PRP$
+than PRP
 they NN
 stood NN
 to NN
@@ -742,7 +742,7 @@ buyout JJ
 , ,
 that ''
 totaled VBN
-about PRP$
+about PRP
 $ VBZ
 76.7 NN
 million NN
@@ -834,7 +834,7 @@ bonus IN
 
 The DT
 40-year NNS
-old PRP$
+old PRP
 Mr. IN
 Pope NN
 has DT
@@ -869,7 +869,7 @@ to IN
 lure NNS
 him NNS
 away NNS
-from PRP$
+from PRP
 American VBD
 Airlines CD
 , ,
@@ -959,7 +959,7 @@ invest IN
 in IN
 the DT
 buy-out NN
-just PRP$
+just PRP
 $ VBZ
 15 CD
 million VBN
@@ -1252,7 +1252,7 @@ disclosed VBD
 The DT
 buy-back NNP
 represents NN
-about PRP$
+about PRP
 3 CD
 % VBD
 of CC
@@ -1407,7 +1407,7 @@ and POS
 respectively IN
 . .
 
-International PRP$
+International PRP
 sales NNP
 accounted VBZ
 for $
@@ -1440,7 +1440,7 @@ to IN
 $ VBZ
 1.63 VBZ
 billion RB
-from PRP$
+from PRP
 $ VBZ
 1.47 VBN
 billion RB
@@ -1455,9 +1455,9 @@ cholesterol-lowering NNS
 drug MD
 , ,
 had NN
-higher PRP$
+higher PRP
 sales NN
-than PRP$
+than PRP
 any NNP
 other PRP
 prescription JJ
@@ -1612,7 +1612,7 @@ than NN
 20 CD
 % VBD
 to NN
-about PRP$
+about PRP
 $ NN
 6.10 NN
 . .
@@ -1626,7 +1626,7 @@ to IN
 $ VBZ
 1.11 VBZ
 billion RB
-from PRP$
+from PRP
 $ VBZ
 1.03 VBZ
 billion RB
@@ -1831,7 +1831,7 @@ tax NNS
 rate VB
 , ,
 profit MD
-from PRP$
+from PRP
 the DT
 renegotiation NNP
 of CC
@@ -1839,7 +1839,7 @@ the DT
 debt DT
 instrument CC
 received CD
-from PRP$
+from PRP
 Faberge NNP
 Inc. VB
 in VB
@@ -1858,7 +1858,7 @@ in IN
 and IN
 net IN
 proceeds IN
-from PRP$
+from PRP
 the DT
 settlement NN
 of NN
@@ -1888,7 +1888,7 @@ to NNP
 $ VBZ
 1.045 NN
 billion RB
-from PRP$
+from PRP
 $ VBZ
 940.6 VBZ
 million NN
@@ -1903,7 +1903,7 @@ to IN
 $ VBZ
 3.39 <PAD>
 billion RB
-from PRP$
+from PRP
 $ VBZ
 3.03 NN
 billion RB
@@ -1924,7 +1924,7 @@ drug-sales IN
 increases NNS
 . .
 
-Higher PRP$
+Higher PRP
 sales NNP
 of CC
 pesticides NNP
@@ -1933,7 +1933,7 @@ other PRP
 plant-science NNP
 products VBD
 more CD
-than PRP$
+than PRP
 offset VBD
 a IN
 slight VB
@@ -2034,7 +2034,7 @@ compares JJ
 with NNP
 per-share NNP
 earnings NN
-from PRP$
+from PRP
 continuing NNS
 operations NNS
 of CC
@@ -2079,7 +2079,7 @@ $ VBZ
 76 CD
 million VBZ
 , ,
-from PRP$
+from PRP
 $ VBZ
 47.1 NN
 million NN
@@ -2335,7 +2335,7 @@ domestic JJ
 business NN
 , ,
 apart NN
-from PRP$
+from PRP
 its CC
 highly CD
 profitable NN
@@ -2935,7 +2935,7 @@ for $
 your VBD
 kids VBD
 , ,
-just PRP$
+just PRP
 cut VBD
 out NNP
 the DT
@@ -3017,7 +3017,7 @@ Clearly NNP
 not MD
 . .
 
-About PRP$
+About PRP
 20,000 RB
 years NNS
 ago JJ
@@ -3032,7 +3032,7 @@ Enormous NN
 ice JJ
 sheets NN
 retreated JJ
-from PRP$
+from PRP
 the DT
 face NN
 of NN
@@ -3133,7 +3133,7 @@ if RB
 we :
 are MD
 serious RB
-about PRP$
+about PRP
 global JJ
 warming JJ
 we :
@@ -3269,7 +3269,7 @@ who JJ
 will JJ
 be JJ
 hired NNS
-from PRP$
+from PRP
 within NNS
 the DT
 agency NNS
@@ -3301,13 +3301,13 @@ annual NNP
 budget NN
 of CC
 more CD
-than PRP$
+than PRP
 $ VBZ
 5 CD
 billion RB
 and VBZ
 collects VBD
-about PRP$
+about PRP
 $ VBZ
 1 CD
 trillion NN
@@ -3550,7 +3550,7 @@ appoint IN
 career IN
 civil NNP
 servants NNP
-from PRP$
+from PRP
 within NNP
 the DT
 agency NNS
@@ -3602,7 +3602,7 @@ can VBZ
 attract RB
 top-notch RB
 candidates VBD
-from PRP$
+from PRP
 the DT
 private JJ
 sector JJ
@@ -3630,7 +3630,7 @@ of NNS
 their CC
 life NNP
 bringing NN
-about PRP$
+about PRP
 the DT
 most NN
 difficult NN
@@ -4073,7 +4073,7 @@ a IN
 U.S. IN
 Embassy NN
 cable CD
-from PRP$
+from PRP
 that ''
 period NNS
 . .
@@ -4090,7 +4090,7 @@ U.S. CC
 intelligence CC
 , ,
 rather NN
-than PRP$
+than PRP
 rein NN
 in IN
 or NN
@@ -4126,7 +4126,7 @@ U.S. CC
 interests NN
 . .
 
-From PRP$
+From PRP
 that ''
 point IN
 on IN
@@ -4232,7 +4232,7 @@ hope NN
 to NN
 remove IN
 him NNS
-from PRP$
+from PRP
 power JJ
 , ,
 but NN
@@ -4299,7 +4299,7 @@ actions NNP
 have NNP
 extended NNP
 rather NNP
-than PRP$
+than PRP
 shortened NN
 his NN
 survival NN
@@ -4707,7 +4707,7 @@ was IN
 four NN
 years NNS
 older NNS
-than PRP$
+than PRP
 most IN
 of NNS
 his NN
@@ -4784,7 +4784,7 @@ more CD
 respected NNP
 and POS
 powerful NN
-than PRP$
+than PRP
 ever CD
 in IN
 his NN
@@ -4792,7 +4792,7 @@ underprivileged CD
 life NNP
 , ,
 friends NN
-from PRP$
+from PRP
 the DT
 period NN
 say IN
@@ -4995,7 +4995,7 @@ of NN
 liquor CC
 or NN
 groceries NN
-from PRP$
+from PRP
 the DT
 American VBD
 PX DT
@@ -5684,7 +5684,7 @@ first JJ
 ran NNS
 across IN
 reports NN
-about PRP$
+about PRP
 Mr. IN
 Noriega IN
 in IN
@@ -5878,7 +5878,7 @@ of CC
 electronically <PAD>
 monitored NN
 conversations NN
-from PRP$
+from PRP
 three NNP
 sergeants JJ
 working CD
@@ -5976,7 +5976,7 @@ information NN
 you IN
 get JJ
 it IN
-from PRP$
+from PRP
 seedy JJ
 characters NNS
 . .
@@ -6241,7 +6241,7 @@ routine IN
 , ,
 unclassified IN
 message IN
-from PRP$
+from PRP
 the DT
 military NN
 group NN
@@ -6451,7 +6451,7 @@ told IN
 
 After NN
 prodding NN
-from PRP$
+from PRP
 Mr. IN
 Sanford NN
 , ,
@@ -6674,7 +6674,7 @@ $ VBZ
 200,000 JJ
 a IN
 year IN
-from PRP$
+from PRP
 the DT
 U.S. NN
 Defense DT
@@ -6832,7 +6832,7 @@ Noriega IN
 also VBN
 conveyed NNP
 intelligence JJR
-from PRP$
+from PRP
 his NN
 spy NNS
 operation NNS
@@ -7141,7 +7141,7 @@ party NN
 . .
 
 But VBZ
-just PRP$
+just PRP
 one DT
 month NN
 later RB
@@ -7392,7 +7392,7 @@ many PRP
 essential NNP
 things <PAD>
 , ,
-just PRP$
+just PRP
 as IN
 Noriega IN
 had NN
@@ -7894,7 +7894,7 @@ quarter RB
 , ,
 substantially JJ
 slower JJ
-than PRP$
+than PRP
 the DT
 3.3 DT
 % NN
@@ -7997,8 +7997,8 @@ need JJ
 to IN
 do JJ
 something JJ
-about PRP$
-this PRP$
+about PRP
+this PRP
 , ,
 '' PRP
 said IN
@@ -8028,7 +8028,7 @@ last NNP
 month IN
 , ,
 down NN
-from PRP$
+from PRP
 83.8 NN
 % VBD
 in IN
@@ -8041,7 +8041,7 @@ manufacturing NNP
 activity CC
 fell DT
 more CD
-than PRP$
+than PRP
 the DT
 overall NN
 measures VBD
@@ -8080,12 +8080,12 @@ lowest NN
 rate NN
 in IN
 more CD
-than PRP$
+than PRP
 a IN
 year IN
 and IN
 down NN
-from PRP$
+from PRP
 84.1 NN
 % VBD
 in IN
@@ -8107,7 +8107,7 @@ intended CD
 to IN
 last NNP
 more CD
-than PRP$
+than PRP
 three NNP
 years NNS
 . .
@@ -8411,7 +8411,7 @@ overall VBN
 U.S. CC
 mortality NNP
 rates NNP
-from PRP$
+from PRP
 lung NN
 cancer NN
 , ,
@@ -8476,7 +8476,7 @@ to IN
 lower NNS
 death NN
 rates NN
-from PRP$
+from PRP
 lung NNS
 cancer <PAD>
 . .
@@ -8547,7 +8547,7 @@ apart NN
 The DT
 death NN
 rate NN
-from PRP$
+from PRP
 lung NN
 cancer NN
 of CC
@@ -9049,13 +9049,13 @@ patterns NNS
 . .
 
 A IN
-higher PRP$
+higher PRP
 proportion IN
 of NN
 black NN
 men NN
 smoke CD
-than PRP$
+than PRP
 white JJ
 men NN
 . .
@@ -9081,7 +9081,7 @@ have PRP
 given NNP
 up NNP
 smoking RB
-than PRP$
+than PRP
 blacks NNS
 . .
 
@@ -9244,7 +9244,7 @@ Womack NN
 , ,
 53 CD
 years NNS
-old PRP$
+old PRP
 , ,
 has IN
 been DT
@@ -9268,7 +9268,7 @@ Traders DT
 trying RB
 to IN
 profit MD
-from PRP$
+from PRP
 the DT
 recent VBN
 volatility VB
@@ -9554,7 +9554,7 @@ trading NNP
 action NNP
 now NNP
 is NN
-from PRP$
+from PRP
 professional NN
 traders DT
 who JJ
@@ -9593,7 +9593,7 @@ opinion NNP
 that ''
 lasts ''
 longer NN
-than PRP$
+than PRP
 30 CD
 seconds NN
 , ,
@@ -9611,7 +9611,7 @@ the DT
 professional NN
 traders DT
 are MD
-just PRP$
+just PRP
 going NN
 back NN
 and NN
@@ -9620,7 +9620,7 @@ forth NN
 
 They VBZ
 're NN
-just PRP$
+just PRP
 as IN
 confused NNP
 . .
@@ -9669,7 +9669,7 @@ thoroughly NN
 confused NNP
 '' PRP
 investors NN
-about PRP$
+about PRP
 where NN
 the DT
 market CD
@@ -9696,7 +9696,7 @@ someone NN
 would IN
 do IN
 something NN
-about PRP$
+about PRP
 it IN
 , ,
 '' NN
@@ -9708,7 +9708,7 @@ Trading NNP
 activity NNP
 cooled NNP
 off VBD
-from PRP$
+from PRP
 Monday JJ
 's ``
 sizzling NNP
@@ -9728,7 +9728,7 @@ and POS
 declining NNS
 issues NN
 finished NNS
-about PRP$
+about PRP
 even NN
 . .
 
@@ -9935,7 +9935,7 @@ earnings NN
 that NN
 were VBD
 better NN
-than PRP$
+than PRP
 analysts NNP
 had NN
 expected JJ
@@ -9990,7 +9990,7 @@ waiting NNS
 for $
 stepped-up CD
 expansion CD
-from PRP$
+from PRP
 the DT
 company :
 . .
@@ -10030,7 +10030,7 @@ devices NNP
 , ,
 also VBN
 reported VBN
-higher PRP$
+higher PRP
 third-quarter NN
 earnings NN
 . .
@@ -10109,7 +10109,7 @@ $ VBZ
 1.27 RB
 a IN
 share IN
-from PRP$
+from PRP
 $ VBZ
 1.15 IN
 a IN
@@ -10133,7 +10133,7 @@ to IN
 $ VBZ
 177.3 IN
 million VBN
-from PRP$
+from PRP
 $ VBZ
 154 CD
 million VBN
@@ -10331,7 +10331,7 @@ Applebaum NNS
 resigned NNS
 after NN
 less NN
-than PRP$
+than PRP
 a IN
 year IN
 in IN
@@ -10391,7 +10391,7 @@ Oct. IN
 -RRB- JJ
 . .
 
-Old PRP$
+Old PRP
 Environmentalism VBD
 involved NNP
 microbe VBD
@@ -10643,7 +10643,7 @@ that ''
 they VBZ
 be VBP
 banned NN
-from PRP$
+from PRP
 industrial RB
 use NN
 because RB
@@ -10891,7 +10891,7 @@ committees NN
 , ,
 including VBD
 one DT
-from PRP$
+from PRP
 the DT
 National NNS
 Academy NNP
@@ -10903,7 +10903,7 @@ there NNS
 is NN
 a IN
 greater NN
-than PRP$
+than PRP
 50 CD
 % VBD
 probability NN
@@ -11018,7 +11018,7 @@ at VBP
 educating VB
 the DT
 public NNP
-about PRP$
+about PRP
 these VBD
 complex CD
 and POS
@@ -11077,7 +11077,7 @@ atmosphere NNP
 This WDT
 portends RB
 consequences IN
-from PRP$
+from PRP
 what CD
 we :
 have PRP
@@ -11135,14 +11135,14 @@ are MD
 made NN
 in IN
 less NN
-than PRP$
+than PRP
 10 CD
 years NNS
 . .
 
 The DT
 consensus CD
-from PRP$
+from PRP
 the DT
 scientific NN
 community NNP
@@ -11205,7 +11205,7 @@ revenue IN
 
 Stung NNS
 by CD
-higher PRP$
+higher PRP
 marketing NN
 costs NN
 and POS
@@ -11413,10 +11413,10 @@ prices NNS
 , ,
 which MD
 were VBD
-about PRP$
+about PRP
 3 CD
 % VBD
-higher PRP$
+higher PRP
 in IN
 the DT
 third NNS
@@ -11456,8 +11456,8 @@ try IN
 to IN
 keep IN
 volumes NNS
-from PRP$
-slipping PRP$
+from PRP
+slipping PRP
 . .
 
 The DT
@@ -11557,7 +11557,7 @@ cents RB
 a IN
 share IN
 , ,
-from PRP$
+from PRP
 $ IN
 93.8 NNS
 million NN
@@ -11573,7 +11573,7 @@ Revenue DT
 was IN
 flat IN
 at VBP
-about PRP$
+about PRP
 $ VBZ
 2.97 JJ
 billion RB
@@ -11681,7 +11681,7 @@ to IN
 $ VBZ
 3.90 NN
 billion RB
-from PRP$
+from PRP
 $ VBZ
 3.13 VBZ
 billion RB
@@ -11700,7 +11700,7 @@ of CC
 $ VBZ
 5.9 VBZ
 million VBN
-from PRP$
+from PRP
 the DT
 sale NN
 of CC
@@ -11899,7 +11899,7 @@ $ IN
 million VBN
 in IN
 receivables VBN
-from PRP$
+from PRP
 B. CD
 Altman NN
 & CD
@@ -12262,7 +12262,7 @@ malls NNS
 plus NNS
 other NNS
 properties RB
-from PRP$
+from PRP
 a IN
 consortium CD
 led NN
@@ -12542,7 +12542,7 @@ NBC NNS
 options DT
 could ``
 range NN
-from PRP$
+from PRP
 news-oriented NN
 programming JJ
 to IN
@@ -12753,12 +12753,12 @@ as IN
 well IN
 as IN
 competition IN
-from PRP$
+from PRP
 videocassettes RB
 for $
 kids VBD
 and POS
-from PRP$
+from PRP
 cable CD
 outlets CD
 such NNS
@@ -12894,7 +12894,7 @@ companies CD
 cost NNP
 the DT
 network DT
-about PRP$
+about PRP
 $ NN
 300,000 NNP
 per VBD
@@ -12955,7 +12955,7 @@ million VBN
 up IN
 0.5 NN
 % VBD
-from PRP$
+from PRP
 $ VBZ
 619.8 JJ
 million VBN
@@ -12986,7 +12986,7 @@ profit IN
 slide VB
 partly NNS
 to IN
-higher PRP$
+higher PRP
 start-up IN
 expense RB
 . .
@@ -13026,9 +13026,9 @@ was IN
 hurt IN
 by IN
 higher IN
-than PRP$
-previous-year PRP$
-costs PRP$
+than PRP
+previous-year PRP
+costs PRP
 for $
 raw CD
 materials NN
@@ -13045,7 +13045,7 @@ quarter NN
 . .
 
 Incrementally CD
-higher PRP$
+higher PRP
 production NN
 of NN
 those CD
@@ -13090,7 +13090,7 @@ share IN
 down IN
 17 CD
 % NNP
-from PRP$
+from PRP
 $ VBZ
 187.8 VBZ
 million NN
@@ -13114,7 +13114,7 @@ to IN
 $ VBZ
 2.04 VBN
 billion RB
-from PRP$
+from PRP
 $ VBZ
 1.94 NN
 billion RB
@@ -13152,7 +13152,7 @@ Gaskin NN
 , ,
 55 CD
 years NNS
-old PRP$
+old PRP
 , ,
 was IN
 named IN
@@ -13292,7 +13292,7 @@ Oct. NN
 article NN
 `` VBD
 Deaths NNP
-From PRP$
+From PRP
 Advanced JJ
 Colon NNP
 Cancer NNP
@@ -13427,7 +13427,7 @@ physician NNS
 who JJ
 truly JJ
 cares JJ
-about PRP$
+about PRP
 cancer <PAD>
 patients <PAD>
 , ,
@@ -13452,7 +13452,7 @@ statement NNS
 , ,
 read NN
 verbatim NNP
-from PRP$
+from PRP
 a IN
 printed CD
 text NNS
@@ -13568,7 +13568,7 @@ will IN
 never IN
 be VBP
 realized NN
-if PRP$
+if PRP
 we :
 use NN
 levamisole NN
@@ -14297,7 +14297,7 @@ were NNS
 buying NN
 real JJ
 estate NN
-from PRP$
+from PRP
 one DT
 of NN
 American CC
@@ -14344,7 +14344,7 @@ Chapter NNS
 11 CD
 bankruptcy <PAD>
 protection <PAD>
-from PRP$
+from PRP
 creditors NN
 . .
 
@@ -14557,7 +14557,7 @@ dollars CC
 in CC
 campaign JJ
 contributions NNS
-from PRP$
+from PRP
 Mr. IN
 Keating NN
 . .
@@ -14586,7 +14586,7 @@ $ NN
 48,100 JJ
 in NN
 contributions JJ
-from PRP$
+from PRP
 Mr. IN
 Keating NN
 , ,
@@ -14676,7 +14676,7 @@ returned NN
 contributions JJ
 he PRP
 received CD
-from PRP$
+from PRP
 Mr. IN
 Keating NN
 a IN
@@ -14713,7 +14713,7 @@ also NN
 received CD
 substantial NNP
 contributions NNS
-from PRP$
+from PRP
 Mr. IN
 Keating NN
 and POS
@@ -14868,7 +14868,7 @@ carrier NN
 plans VBP
 for $
 emerging JJ
-from PRP$
+from PRP
 bankruptcy-law JJ
 proceedings JJ
 , ,
@@ -14931,7 +14931,7 @@ latest VBN
 plan IN
 to IN
 emerge NN
-from PRP$
+from PRP
 bankruptcy-law JJ
 protection NN
 is NN
@@ -14971,7 +14971,7 @@ optimistic NNP
 '' PRP
 
 Asked NNP
-about PRP$
+about PRP
 the DT
 consultants NN
 ' NN
@@ -15043,11 +15043,11 @@ predicted NNS
 it IN
 would IN
 emerge IN
-from PRP$
+from PRP
 Chapter NNS
 11 CD
 protection CD
-from PRP$
+from PRP
 creditors NN
 early JJ
 next NNS
@@ -15168,7 +15168,7 @@ assets IN
 and IN
 to IN
 emerge NN
-from PRP$
+from PRP
 bankruptcy-law JJ
 protection CD
 at VBP
@@ -15233,7 +15233,7 @@ creditors NN
 ' NN
 professionals NN
 at VBP
-about PRP$
+about PRP
 $ VBZ
 400 CD
 million NN
@@ -15311,7 +15311,7 @@ Eastern RB
 a IN
 bigger IN
 carrier RB
-than PRP$
+than PRP
 the DT
 scaled-down NNS
 one DT
@@ -15440,8 +15440,8 @@ session NNP
 . .
 
 Experts DT
-from PRP$
-Goldman PRP$
+from PRP
+Goldman PRP
 Sachs NN
 estimated RB
 Eastern RB
@@ -15489,7 +15489,7 @@ generate IN
 far NN
 less NN
 cash NN
-than PRP$
+than PRP
 anticipated NN
 . .
 
@@ -15607,7 +15607,7 @@ dip RB
 into NNS
 the DT
 cash NN
-from PRP$
+from PRP
 asset NN
 sales NNP
 currently NNP
@@ -15625,7 +15625,7 @@ million NN
 dollars VB
 , ,
 primarily NN
-from PRP$
+from PRP
 asset NN
 sales NNP
 . .
@@ -15886,7 +15886,7 @@ it IN
 would IN
 be VBP
 operating NN
-about PRP$
+about PRP
 1,000 NN
 flights NN
 a NN
@@ -15898,11 +15898,11 @@ spring NNP
 only PRP
 slightly NN
 fewer NNP
-than PRP$
+than PRP
 the DT
 carrier RB
 's ``
-old PRP$
+old PRP
 volume RB
 of NN
 1,050 NN
@@ -16276,7 +16276,7 @@ is NN
 lower NNS
 and POS
 deductions NN
-higher PRP$
+higher PRP
 . .
 
 In IN
@@ -16335,7 +16335,7 @@ victims NN
 Returns JJ
 for $
 1988 CD
-from PRP$
+from PRP
 people JJ
 with NNP
 six-month NNP
@@ -16681,7 +16681,7 @@ requirements NN
 . .
 
 BIGGER NNS
-THAN PRP$
+THAN PRP
 A IN
 BREADBOX RB
 was IN
@@ -16795,7 +16795,7 @@ story VBZ
 The DT
 deposits DT
 came NN
-from PRP$
+from PRP
 savings JJ
 kept NN
 in IN
@@ -16856,7 +16856,7 @@ and POS
 of NN
 an CC
 ex-employer NNP
-about PRP$
+about PRP
 his NN
 honesty NN
 and POS
@@ -16968,7 +16968,7 @@ a IN
 bill IN
 to IN
 exempt IN
-from PRP$
+from PRP
 tax NN
 rewards NN
 for $
@@ -17080,7 +17080,7 @@ what CD
 it IN
 's ``
 all NN
-about PRP$
+about PRP
 . .
 '' PRP
 
@@ -17213,7 +17213,7 @@ they VBZ
 were VBD
 being NN
 driven NN
-from PRP$
+from PRP
 trails NN
 . .
 
@@ -17260,9 +17260,9 @@ hilly NNP
 acres JJ
 . .
 
-From PRP$
-about PRP$
-200,000 PRP$
+From PRP
+about PRP
+200,000 PRP
 six NNS
 years NNS
 ago JJ
@@ -17391,7 +17391,7 @@ have PRP
 prompted NNS
 pleas NNS
 , ,
-from PRP$
+from PRP
 the DT
 Sierras IN
 to IN
@@ -17402,7 +17402,7 @@ Seaboard DT
 to IN
 ban IN
 them VBG
-from PRP$
+from PRP
 the DT
 back NN
 country NN
@@ -17442,7 +17442,7 @@ adept NNP
 bicyclist NNP
 can RB
 leap RB
-from PRP$
+from PRP
 a IN
 dead NN
 stop VBN
@@ -17622,7 +17622,7 @@ Trail NNP
 , ,
 which MD
 stretches VBD
-from PRP$
+from PRP
 California VBD
 to IN
 Canada IN
@@ -17729,7 +17729,7 @@ bikes NNP
 . .
 
 Pressure VBD
-from PRP$
+from PRP
 these VBD
 members NN
 prompted NN
@@ -17854,7 +17854,7 @@ that NNS
 cyclists NNP
 should NN
 be NN
-banned PRP$
+banned PRP
 from RB
 an NN
 area MD
@@ -18125,7 +18125,7 @@ peer IN
 pressure IN
 , ,
 '' DT
-says PRP$
+says PRP
 Jim JJ
 Hasenauer NN
 , ,
@@ -18215,7 +18215,7 @@ in IN
 many IN
 ways IN
 easier JJ
-to PRP$
+to PRP
 ride DT
 than JJ
 the NN
@@ -18277,7 +18277,7 @@ they VBZ
 accounted VBZ
 for $
 more CD
-than PRP$
+than PRP
 80 CD
 % VBD
 of CC
@@ -18321,7 +18321,7 @@ roll NNP
 through NNP
 road NNS
 glass RB
-with PRP$
+with PRP
 far JJ
 fewer NNP
 flat DT
@@ -18387,7 +18387,7 @@ summer NNP
 , ,
 the DT
 jamboree CD
-attracted PRP$
+attracted PRP
 more DT
 visitors NNS
 than NNS
@@ -18669,7 +18669,7 @@ Average IN
 , ,
 down NN
 more CD
-than PRP$
+than PRP
 60.25 NN
 points CD
 early JJ
@@ -18689,7 +18689,7 @@ Long-term NNP
 Treasury RB
 issues NN
 declined JJ
-about PRP$
+about PRP
 half VBP
 a IN
 point IN
@@ -18902,7 +18902,7 @@ interest NN
 rate NN
 to IN
 decline NN
-about PRP$
+about PRP
 one-quarter JJ
 percentage IN
 point IN
@@ -18925,7 +18925,7 @@ around NN
 3\/4 VBD
 % IN
 , ,
-down PRP$
+down PRP
 from NN
 9 CD
 % NN
@@ -19032,8 +19032,8 @@ recover TO
 They VBZ
 shot DT
 the DT
-whole PRP$
-orchestra PRP$
+whole PRP
+orchestra PRP
 just DT
 because MD
 the IN
@@ -19125,7 +19125,7 @@ rose NN
 to IN
 142.75 IN
 yen IN
-from PRP$
+from PRP
 141.80 VBG
 yen JJ
 Monday IN
@@ -19134,7 +19134,7 @@ but DT
 fell IN
 to IN
 1.8667 NN
-marks PRP$
+marks PRP
 from VBN
 1.8685 NN
 marks DT
@@ -19328,7 +19328,7 @@ and IN
 research NN
 provided CD
 by NNP
-staff PRP$
+staff PRP
 from CC
 U.S. JJ
 News CC
@@ -19489,7 +19489,7 @@ rose NN
 to IN
 $ VBZ
 2.57 RB
-billion PRP$
+billion PRP
 from VBZ
 $ RB
 2.36 DT
@@ -19540,7 +19540,7 @@ rose NN
 to IN
 $ VBZ
 7.54 RB
-billion PRP$
+billion PRP
 from VBZ
 $ RB
 6.95 DT
@@ -19564,7 +19564,7 @@ of NNS
 $ VBZ
 33 CD
 million VB
-from PRP$
+from PRP
 the DT
 company :
 's ``
@@ -19605,8 +19605,8 @@ paper NN
 operations VBD
 were VBN
 dogged CD
-by PRP$
-higher PRP$
+by PRP
+higher PRP
 costs IN
 , ,
 soft RB
@@ -20045,7 +20045,7 @@ Inc NNP
 . .
 
 Earnings NN
-from PRP$
+from PRP
 the DT
 bank NN
 's ``
@@ -20136,14 +20136,14 @@ patterns DT
 the JJ
 bank VBZ
 said NN
-no PRP$
+no PRP
 interest IN
 payments DT
 from DT
 Argentina VBP
 in POS
 the JJ
-nine PRP$
+nine PRP
 months IN
 and DT
 none NNS
@@ -20175,7 +20175,7 @@ loss IN
 to IN
 $ NNP
 70 CD
-million PRP$
+million PRP
 from VBZ
 $ VBZ
 80 CD
@@ -20234,7 +20234,7 @@ $ VBZ
 2.6 VBZ
 billion IN
 , ,
-covering PRP$
+covering PRP
 about NNP
 30 CD
 % CC
@@ -20453,7 +20453,7 @@ slightly NN
 to NN
 $ VBZ
 191.9 NN
-million PRP$
+million PRP
 from VBZ
 $ VBN
 193.3 IN
@@ -20503,13 +20503,13 @@ for IN
 the DT
 quarter IN
 , ,
-about PRP$
+about PRP
 40 CD
 % NN
-higher PRP$
-than PRP$
-Security PRP$
-Pacific PRP$
+higher PRP
+than PRP
+Security PRP
+Pacific PRP
 's ``
 and POS
 a IN
@@ -20538,7 +20538,7 @@ equity NN
 increased NN
 to NN
 24.4 VBD
-% PRP$
+% PRP
 from VBD
 23.8 DT
 % TO
@@ -20580,7 +20580,7 @@ the RB
 previous IN
 quarter VBZ
 to NN
-$ PRP$
+$ PRP
 806.8 VBZ
 million VBN
 from DT
@@ -20596,8 +20596,8 @@ was IN
 still NN
 39 CD
 % VBD
-higher PRP$
-than PRP$
+higher PRP
+than PRP
 the DT
 year-ago NN
 level NN
@@ -20605,7 +20605,7 @@ level NN
 and POS
 25 CD
 % VBD
-higher PRP$
+higher PRP
 as IN
 a IN
 percentage IN
@@ -20627,13 +20627,13 @@ to IN
 leveraged IN
 buy-outs IN
 , ,
-are PRP$
+are PRP
 about DT
 the PRP
 only DT
 worries NNP
 analysts PRP
-have PRP$
+have PRP
 about VBD
 Wells VBZ
 Fargo ``
@@ -20657,7 +20657,7 @@ $ VB
 711 CD
 million NNS
 at NNP
-Sept. PRP$
+Sept. PRP
 30 CD
 from NN
 $ DT
@@ -20666,7 +20666,7 @@ million RB
 the VBZ
 previous IN
 quarter NN
-but PRP$
+but PRP
 was VBZ
 down NN
 from IN
@@ -20816,7 +20816,7 @@ banking CC
 . .
 
 Fees NNS
-from PRP$
+from PRP
 syndicating NN
 loans NNP
 dropped CD
@@ -20878,9 +20878,9 @@ Financial VBD
 PNC JJ
 Financial VBD
 cited NNP
-higher PRP$
+higher PRP
 income NN
-from PRP$
+from PRP
 sources NN
 unrelated NNS
 to IN
@@ -22279,7 +22279,7 @@ National NNS
 Radio JJ
 reports NN
 that ''
-about PRP$
+about PRP
 $ VBZ
 40 CD
 million NN
@@ -22337,7 +22337,7 @@ were CD
 severely NNS
 hampered CC
 by VBN
-lack PRP$
+lack PRP
 of VB
 cooperation DT
 from TO
@@ -22577,7 +22577,7 @@ contract TO
 
 According VB
 to IN
-Gen. PRP$
+Gen. PRP
 Sundarji RB
 , ,
 that ''
@@ -22594,7 +22594,7 @@ the DT
 middlemen VBZ
 who JJ
 received CD
-kickbacks PRP$
+kickbacks PRP
 from DT
 the :
 company DT
@@ -22661,7 +22661,7 @@ said VBZ
 they NN
 may NN
 seek NNP
-proposals PRP$
+proposals PRP
 from NNS
 third NNS
 parties NNS
@@ -22672,7 +22672,7 @@ sale NN
 or NNP
 restructuring CC
 of NNP
-CACI PRP$
+CACI PRP
 International NNP
 Inc DT
 . .
@@ -22910,7 +22910,7 @@ were VBD
 bidding NNS
 bond NNS
 prices NNS
-higher PRP$
+higher PRP
 as IN
 stocks DT
 tumbled NNS
@@ -22943,7 +22943,7 @@ which NN
 had DT
 been NN
 down NN
-more PRP$
+more PRP
 than NNP
 60 CD
 points NN
@@ -23172,13 +23172,13 @@ about IN
 8 CD
 3\/4 RB
 % VBD
-from PRP$
+from PRP
 its CC
 previous NN
 target JJ
 level NN
 of CC
-about PRP$
+about PRP
 9 CD
 % VBD
 . .
@@ -23210,7 +23210,7 @@ policy NN
 It IN
 ended NN
 at VBP
-about PRP$
+about PRP
 8 CD
 11\/16 VBD
 % NNP
@@ -23235,7 +23235,7 @@ benchmark NN
 bond NN
 fell DT
 more NN
-than PRP$
+than PRP
 1\/2 NN
 point IN
 , ,
@@ -23321,7 +23321,7 @@ Macy NN
 issue VBN
 closed NN
 up VBD
-about PRP$
+about PRP
 one DT
 point IN
 at VBP
@@ -23358,7 +23358,7 @@ size VBD
 of CC
 the DT
 issue VBN
-from PRP$
+from PRP
 $ VBZ
 3 CD
 billion RB
@@ -23564,7 +23564,7 @@ offering DT
 for NN
 the NN
 banks IN
-to PRP$
+to PRP
 yield VBD
 from IN
 8.125 VBD
@@ -23607,7 +23607,7 @@ in IN
 August VBZ
 , ,
 up IN
-from PRP$
+from PRP
 a IN
 revised NN
 $ VBZ
@@ -23640,7 +23640,7 @@ were VBD
 essentially JJ
 flat NNS
 to IN
-about PRP$
+about PRP
 1\/2 IN
 point IN
 lower NNS
@@ -23915,7 +23915,7 @@ $ VBN
 850 CD
 million POS
 were NN
-offered PRP$
+offered PRP
 and IN
 talk CD
 circulated NN
@@ -24024,7 +24024,7 @@ Mae MD
 securities CD
 , ,
 which NN
-held PRP$
+held PRP
 up IN
 better NNS
 than NNS
@@ -24278,7 +24278,7 @@ Tentative NN
 reoffering NNS
 yields VBD
 were NNS
-set PRP$
+set PRP
 from NNS
 6.25 VBD
 % IN
@@ -24312,7 +24312,7 @@ appreciation NN
 bonds IN
 priced IN
 to IN
-yield PRP$
+yield PRP
 to NNS
 maturity VBD
 from IN
@@ -24419,7 +24419,7 @@ late IN
 yesterday IN
 , ,
 off IN
-0.10 PRP$
+0.10 PRP
 point JJ
 from IN
 Monday IN
@@ -24611,7 +24611,7 @@ has IN
 met IN
 strong NNS
 opposition NNS
-from PRP$
+from PRP
 investment JJ
 bankers NN
 represented NN
@@ -24882,7 +24882,7 @@ amendments JJ
 seeking NN
 to IN
 cut JJ
-the PRP$
+the PRP
 total NN
 package IN
 or IN
@@ -25291,7 +25291,7 @@ accounts CD
 growing NN
 by VBD
 14 CD
-% PRP$
+% PRP
 to VBZ
 about VBN
 $ DT
@@ -25320,7 +25320,7 @@ Housing VBD
 and NN
 Urban NN
 Development CD
-Department PRP$
+Department PRP
 , ,
 more RB
 than NN
@@ -25470,7 +25470,7 @@ major NN
 bill NN
 to IN
 emerge NN
-from PRP$
+from PRP
 negotiations JJ
 this IN
 week NNS
@@ -25522,7 +25522,7 @@ tobacco NNP
 industry VBD
 yesterday NNP
 indicate VBZ
-all PRP$
+all PRP
 but NNP
 about NN
 30 CD
@@ -25594,7 +25594,7 @@ most IN
 critical RB
 areas NN
 remaining NN
-from PRP$
+from PRP
 the DT
 administration NNS
 's ``
@@ -25900,7 +25900,7 @@ on IN
 Monday JJ
 to IN
 rally NNS
-from PRP$
+from PRP
 last NNP
 Friday NNP
 's ``
@@ -25967,7 +25967,7 @@ subdued NN
 gold NNS
 prices $
 for CD
-more PRP$
+more PRP
 than IN
 a IN
 year IN
@@ -26060,7 +26060,7 @@ veering VB
 toward NN
 buying CD
 bonds NN
-rather PRP$
+rather PRP
 than NNP
 precious NN
 metals NN
@@ -26234,7 +26234,7 @@ traders DT
 are MD
 n't DT
 concerned NN
-about PRP$
+about PRP
 inflation NN
 , ,
 he IN
@@ -26333,12 +26333,12 @@ the DT
 stock VBD
 market CD
 goes CD
-higher PRP$
+higher PRP
 , ,
 it IN
 may NN
 be NN
-just PRP$
+just PRP
 a IN
 false NN
 alarm DT
@@ -26356,7 +26356,7 @@ handcuffed DT
 
 The DT
 most IN
-remarkable PRP$
+remarkable PRP
 feature NNP
 about ``
 yesterday NNP
@@ -26451,7 +26451,7 @@ producers NNS
 tended IN
 to IN
 back IN
-off PRP$
+off PRP
 from IN
 a NN
 rising NN
@@ -26907,13 +26907,13 @@ Soviet NN
 Union NN
 is IN
 interested NN
-in PRP$
+in PRP
 buying DT
 from NN
 the NN
 U.S. NN
 or NN
-South PRP$
+South PRP
 America NN
 about NN
 250,000 NN
@@ -26955,7 +26955,7 @@ Since NN
 Sept. NNS
 1 CD
 , ,
-about PRP$
+about PRP
 13 CD
 million NN
 fewer NNP
@@ -26966,7 +26966,7 @@ soybeans CC
 have DT
 been JJ
 sold RB
-overseas PRP$
+overseas PRP
 than $
 for DT
 the NNS
@@ -26994,7 +26994,7 @@ Investors NN
 Service NN
 Inc. VBP
 , ,
-fretting PRP$
+fretting PRP
 about NN
 increasing NN
 competitive VBD
@@ -27116,7 +27116,7 @@ Africa CC
 know NNP
 a IN
 lot NN
-about PRP$
+about PRP
 managing NN
 elephants NN
 ; WRB
@@ -27231,7 +27231,7 @@ down NN
 . .
 
 The DT
-Greens PRP$
+Greens PRP
 from DT
 the JJ
 First NNS
@@ -27303,7 +27303,7 @@ Department IN
 described VBD
 American NNS
 conservationists NNP
-as PRP$
+as PRP
 `` JJ
 fat JJ
 little JJ
@@ -27311,7 +27311,7 @@ puppies DT
 from DT
 urban IN
 environments DT
-who PRP$
+who PRP
 do NNS
 n't DT
 know PRP
@@ -27337,7 +27337,7 @@ fat NNS
 HUGO'S NNS
 BLAST $
 generates NNP
-pleas PRP$
+pleas PRP
 for NN
 aid VBD
 from NN
@@ -27354,7 +27354,7 @@ Administration NNS
 has DT
 received CD
 more CD
-than PRP$
+than PRP
 5,000 CD
 formal <PAD>
 requests $
@@ -27367,7 +27367,7 @@ the NN
 hurricane DT
 . .
 
-About PRP$
+About PRP
 45 CD
 % VBD
 of CC
@@ -27385,7 +27385,7 @@ to IN
 homeowners NNS
 , ,
 come IN
-from PRP$
+from PRP
 small NN
 businesses NNS
 , ,
@@ -27406,7 +27406,7 @@ SBA NNP
 expects NNS
 to IN
 make VBD
-about PRP$
+about PRP
 $ VBZ
 1 CD
 billion RB
@@ -27571,7 +27571,7 @@ after NN
 deleting NN
 Section NNS
 89 CD
-repeal PRP$
+repeal PRP
 from CC
 its NN
 deficit-reduction NN
@@ -27635,8 +27635,8 @@ deduction JJ
 for PRP
 their IN
 own VBD
-health PRP$
-plans PRP$
+health PRP
+plans PRP
 , ,
 up VBD
 from DT
@@ -27779,7 +27779,7 @@ say NN
 they VBZ
 're NN
 discouraging NNP
-businesses PRP$
+businesses PRP
 from RB
 offering JJ
 health JJ
@@ -28024,7 +28024,7 @@ eight NNS
 years NN
 or NNP
 80,000 NN
-miles PRP$
+miles PRP
 from NNP
 five NNS
 years NN
@@ -28448,7 +28448,7 @@ with DT
 the NNP
 sale JJ
 Monday CC
-of PRP$
+of PRP
 about VBZ
 $ RB
 15.6 IN
@@ -28535,7 +28535,7 @@ it IN
 lowered IN
 ratings IN
 on IN
-about PRP$
+about PRP
 $ IN
 650 CD
 million NN
@@ -28570,7 +28570,7 @@ and NNP
 certain DT
 industrial CD
 revenue IN
-bonds PRP$
+bonds PRP
 to POS
 single-B-1 DT
 from :
@@ -28578,7 +28578,7 @@ Ba-3 ``
 and CD
 the NNP
 company IN
-'s PRP$
+'s PRP
 subordinated DT
 debentures TO
 to TO
@@ -28608,7 +28608,7 @@ potential VBZ
 '' ''
 and NN
 that NN
-paying PRP$
+paying PRP
 dividends NN
 from JJR
 a JJ
@@ -28697,7 +28697,7 @@ skepticism NNP
 were NNP
 all CD
 but RB
-drowned PRP$
+drowned PRP
 out CC
 by DT
 an TO
@@ -28990,7 +28990,7 @@ the DT
 Soviets DT
 . .
 
-Gen. PRP$
+Gen. PRP
 Gromov JJ
 himself VBZ
 said IN
@@ -29001,7 +29001,7 @@ to IN
 leave NN
 behind NNP
 more NNP
-than PRP$
+than PRP
 $ VBZ
 1 CD
 billion RB
@@ -29072,7 +29072,7 @@ called NNS
 new PRP
 peaceful VBD
 long-range CD
-weapons PRP$
+weapons PRP
 , ,
 '' DT
 including TO
@@ -29097,7 +29097,7 @@ example IN
 1,000 IN
 trucks NNP
 , ,
-about PRP$
+about PRP
 100 CD
 tanks NN
 , ,
@@ -29125,7 +29125,7 @@ including NNP
 120 CD
 T-72 POS
 tanks CD
-and PRP$
+and PRP
 more NN
 than NN
 40 CD
@@ -29300,7 +29300,7 @@ established DT
 well-paid JJ
 paramilitary JJ
 forces CD
-totaling PRP$
+totaling PRP
 more JJ
 than NN
 100,000 NN
@@ -29484,7 +29484,7 @@ serious NNP
 questions PRP
 have DT
 been DT
-raised PRP$
+raised PRP
 about DT
 the JJ
 claimed NN
@@ -29540,7 +29540,7 @@ to NNP
 30,000 JJ
 Soviet CD
 Central IN
-Asian PRP$
+Asian PRP
 KGB POS
 Border VBD
 Guards DT
@@ -29768,7 +29768,7 @@ Jalalabad TO
 They VBZ
 took NNP
 more CD
-than PRP$
+than PRP
 25 CD
 % VBD
 casualties VBD
@@ -30097,7 +30097,7 @@ surprisingly NN
 , ,
 little NNP
 more CD
-than PRP$
+than PRP
 a IN
 whimper NN
 of NNP
@@ -30136,7 +30136,7 @@ Hyde IN
 , ,
 a IN
 conservative IN
-Republican PRP$
+Republican PRP
 from DT
 Illinois TO
 . .
@@ -30614,7 +30614,7 @@ the IN
 funds NNS
 it IN
 planned IN
-to PRP$
+to PRP
 cut DT
 from IN
 the DT
@@ -30622,7 +30622,7 @@ program NN
 . .
 
 And POS
-just PRP$
+just PRP
 last NNP
 week NNS
 , ,
@@ -30797,7 +30797,7 @@ to IN
 have IN
 tacitly IN
 accepted IN
-a PRP$
+a PRP
 new DT
 arms-control JJ
 proposal JJ
@@ -30846,7 +30846,7 @@ reserve DT
 the NN
 right NN
 to NN
-withdraw PRP$
+withdraw PRP
 from DT
 the NN
 completed NN
@@ -30951,7 +30951,7 @@ proponents NN
 may NN
 be NN
 shying JJ
-away PRP$
+away PRP
 from CD
 more NN
 drumbeating VBZ
@@ -31237,7 +31237,7 @@ causes RB
 Rep. NNP
 Hyde NNP
 to IN
-muse PRP$
+muse PRP
 about RB
 an RB
 alternate NNP
@@ -31757,9 +31757,9 @@ most IN
 important IN
 things NN
 to IN
-understand PRP$
+understand PRP
 about IN
-Mr. PRP$
+Mr. PRP
 Allen NN
 is NN
 that NN
@@ -32042,7 +32042,7 @@ Cunin NN
 , ,
 65 CD
 years NNS
-old PRP$
+old PRP
 , ,
 was IN
 chief VBD
@@ -32053,8 +32053,8 @@ distributor CC
 of CC
 bearings NNP
 and NNP
-power-transmission PRP$
-products PRP$
+power-transmission PRP
+products PRP
 from IN
 1982 CD
 to DT
@@ -32164,7 +32164,7 @@ companies NN
 as NNS
 General JJ
 Motors IN
-Corp. PRP$
+Corp. PRP
 , ,
 International RB
 Business JJ
@@ -32250,7 +32250,7 @@ Ryzhkov IN
 , ,
 spent RB
 the IN
-longest PRP$
+longest PRP
 time VBD
 , ,
 about IN
@@ -32298,7 +32298,7 @@ Beijing IN
 meantime IN
 , ,
 China RB
-opened PRP$
+opened PRP
 an NN
 international IN
 aviation VBZ
@@ -32310,7 +32310,7 @@ West NN
 's NN
 embargo VBZ
 on NN
-military PRP$
+military PRP
 deals DT
 and NN
 uncertainty ``
@@ -32330,7 +32330,7 @@ Officials VB
 said IN
 91 CD
 companies CD
-from PRP$
+from PRP
 14 CD
 countries CD
 , ,
@@ -32342,12 +32342,12 @@ had NN
 displays IN
 , ,
 down IN
-from PRP$
-about PRP$
+from PRP
+about PRP
 260 CD
-firms PRP$
-from PRP$
-more PRP$
+firms PRP
+from PRP
+more PRP
 than CD
 20 CD
 countries DT
@@ -32432,7 +32432,7 @@ responsibility NN
 is NNP
 heavy RB
 because CD
-illegal PRP$
+illegal PRP
 exports VBD
 lowered IN
 international NN
@@ -32458,7 +32458,7 @@ by CD
 Japanese JJ
 law POS
 and CD
-by PRP$
+by PRP
 international NN
 agreement DT
 . .
@@ -32588,7 +32588,7 @@ mill MD
 , ,
 which PRP
 would NN
-have PRP$
+have PRP
 covered JJ
 about IN
 175,000 DT
@@ -32656,7 +32656,7 @@ company IN
 to IN
 Hong IN
 Kong NNS
-to PRP$
+to PRP
 gain DT
 from NN
 the NN
@@ -32711,7 +32711,7 @@ to IN
 set IN
 up VBD
 an RB
-international PRP$
+international PRP
 wholesale JJ
 market CD
 with NNP
@@ -32850,7 +32850,7 @@ works NNP
 with NNP
 pre-sale CC
 estimates CC
-of PRP$
+of PRP
 less VBZ
 than IN
 $ RB
@@ -32888,8 +32888,8 @@ do DT
 n't NNS
 want IN
 to CD
-sell PRP$
-just PRP$
+sell PRP
+just PRP
 their NNS
 fabulous NN
 oil IN
@@ -32910,7 +32910,7 @@ Campo NN
 is NN
 less NNP
 concerned CD
-with PRP$
+with PRP
 market NNP
 niches ``
 than NN
@@ -32971,11 +32971,11 @@ Community NNP
 after NN
 1992 CD
 could CD
-threaten PRP$
+threaten PRP
 more NNP
 than NNP
 3,000 DT
-jobs PRP$
+jobs PRP
 , ,
 the NN
 International JJ
@@ -33056,7 +33056,7 @@ Polaroid NNS
 Corp. JJ
 , ,
 benefiting NNS
-from PRP$
+from PRP
 staff-reduction JJ
 savings IN
 , ,
@@ -33093,7 +33093,7 @@ the DT
 numbers NN
 were VBD
 better NN
-than PRP$
+than PRP
 expectations NN
 , ,
 partly IN
@@ -33152,7 +33152,7 @@ $ VBZ
 million IN
 , ,
 almost NNS
-unchanged PRP$
+unchanged PRP
 from VBZ
 $ VBN
 436.3 IN
@@ -33180,7 +33180,7 @@ the NNS
 third RB
 quarter IN
 , ,
-more PRP$
+more PRP
 than NNS
 double DT
 the DT
@@ -33223,7 +33223,7 @@ quarter DT
 I NNS
 'm NNP
 somewhat VBD
-skeptical PRP$
+skeptical PRP
 about DT
 the NN
 underlying RB
@@ -33333,7 +33333,7 @@ I NNS
 do NNS
 n't DT
 know NNP
-about PRP$
+about PRP
 disappointing NN
 , ,
 '' PRP
@@ -33384,7 +33384,7 @@ is NN
 currently NN
 carried NNP
 at VBP
-about PRP$
+about PRP
 15,000 NN
 retail VBD
 outlets VB
@@ -33951,7 +33951,7 @@ so NN
 that ''
 bouts ''
 of CC
-higher PRP$
+higher PRP
 volatility VB
 get JJ
 built VB
@@ -34019,8 +34019,8 @@ aggressive PRP
 accounts IN
 to VBD
 75 CD
-% PRP$
-from PRP$
+% PRP
+from PRP
 55 CD
 % IN
 to MD
@@ -34054,7 +34054,7 @@ those NN
 stock VBD
 holdings NNP
 to NNP
-about PRP$
+about PRP
 70 CD
 % VBD
 . .
@@ -34261,7 +34261,7 @@ brokerage NNP
 commissions NNP
 far NNP
 lower NNS
-than PRP$
+than PRP
 in IN
 the DT
 1970s DT
@@ -34384,7 +34384,7 @@ liquidity CC
 can RB
 also VBN
 result RB
-from PRP$
+from PRP
 exchange RB
 `` VBD
 reforms DT
@@ -34652,7 +34652,7 @@ fundamentals NNP
 the CC
 value IN
 of VBD
-a PRP$
+a PRP
 stock NNS
 from IN
 day NNS
@@ -34718,7 +34718,7 @@ introduced NN
 
 `` VBD
 I NNS
-just PRP$
+just PRP
 ca NNP
 n't DT
 believe RB
@@ -34793,7 +34793,7 @@ is NN
 less IN
 in IN
 percentage NNP
-terms PRP$
+terms PRP
 than IN
 it IN
 was IN
@@ -34982,7 +34982,7 @@ chairs IN
 he IN
 called IN
 it NN
--- PRP$
+-- PRP
 rather NN
 than IN
 on NNP
@@ -35149,7 +35149,7 @@ manager NN
 to IN
 expunge DT
 the NN
-virus PRP$
+virus PRP
 from IN
 a NN
 computer NN
@@ -35542,7 +35542,7 @@ of CC
 random NN
 numbers IN
 , ,
-preventing PRP$
+preventing PRP
 them IN
 from IN
 signing IN
@@ -35559,7 +35559,7 @@ that ''
 on IN
 Monday JJ
 , ,
-about PRP$
+about PRP
 four NN
 computer NN
 centers NN
@@ -35591,7 +35591,7 @@ said IN
 it IN
 will IN
 take MD
-about PRP$
+about PRP
 a IN
 week NNS
 before VBP
@@ -36658,7 +36658,7 @@ court IN
 is NN
 poorly IN
 positioned VBD
-to PRP$
+to PRP
 make DT
 judgments NN
 about CC
@@ -36684,7 +36684,7 @@ attempt IN
 to IN
 gain NNS
 nonpublic IN
-information PRP$
+information PRP
 about IN
 a NN
 deal IN
@@ -36695,7 +36695,7 @@ one IN
 does MD
 not VB
 naturally NN
-think PRP$
+think PRP
 about DT
 the NNP
 reverse VBZ
@@ -36769,7 +36769,7 @@ by IN
 the IN
 exchanges NNS
 to NNS
-respond PRP$
+respond PRP
 openly NNS
 to NNS
 such DT
@@ -36833,7 +36833,7 @@ all CC
 those CC
 affected CC
 by CC
-its PRP$
+its PRP
 decision DT
 , ,
 not VB
@@ -36856,7 +36856,7 @@ frame ''
 `` JJ
 bright NN
 line NNS
-'' PRP$
+'' PRP
 standards DT
 that NN
 create CC
@@ -37107,7 +37107,7 @@ with NNP
 a IN
 judicial RB
 power JJ
-grab PRP$
+grab PRP
 than NNP
 with IN
 a NNP
@@ -37210,7 +37210,7 @@ gain NNS
 of CC
 $ VBZ
 59.9 VBN
-million PRP$
+million PRP
 from DT
 the NNP
 sale CC
@@ -37285,7 +37285,7 @@ rose NN
 to IN
 $ VBZ
 715 CD
-million PRP$
+million PRP
 from VBZ
 $ VBG
 625.4 VBN
@@ -37597,7 +37597,7 @@ market CD
 is NN
 still NN
 very NNS
-touchy PRP$
+touchy PRP
 about RB
 rumors POS
 and JJ
@@ -37896,7 +37896,7 @@ more CD
 of CC
 a IN
 focus NNP
-than PRP$
+than PRP
 lesser-developed-country NN
 debt JJ
 now NN
@@ -38054,7 +38054,7 @@ expiration NN
 . .
 
 Aside JJ
-from PRP$
+from PRP
 computer-guided NNS
 selling JJ
 , ,
@@ -38383,7 +38383,7 @@ to IN
 1\/2 IN
 . .
 
-International PRP$
+International PRP
 Paper NN
 fell DT
 1 CD
@@ -38424,7 +38424,7 @@ to IN
 show NN
 a IN
 gain NNS
-from PRP$
+from PRP
 the DT
 industrial RB
 average IN
@@ -38567,7 +38567,7 @@ million IN
 shares IN
 , ,
 reflecting CD
-market PRP$
+market PRP
 optimism DT
 about DT
 the $
@@ -38693,7 +38693,7 @@ company :
 reported DT
 that ''
 earnings NN
-from PRP$
+from PRP
 operations NN
 for $
 the DT
@@ -38704,7 +38704,7 @@ up VBD
 about VBD
 25 CD
 % VBD
-from PRP$
+from PRP
 a IN
 year IN
 earlier IN
@@ -39215,7 +39215,7 @@ of CC
 deposit NNP
 fell DT
 at VBP
-about PRP$
+about PRP
 half VBP
 the DT
 rate NN
@@ -39250,7 +39250,7 @@ deposits NNS
 below CD
 $ VBZ
 50,000 NN
-than PRP$
+than PRP
 they VBZ
 can RB
 on IN
@@ -39308,9 +39308,9 @@ are MD
 reporting VB
 more CD
 inquiries NN
-than PRP$
+than PRP
 usual NNP
-about PRP$
+about PRP
 CDs CD
 since NN
 Friday NN
@@ -39318,8 +39318,8 @@ Friday NN
 
 `` VBD
 Reports NN
-from PRP$
-branches PRP$
+from PRP
+branches PRP
 are MD
 that VB
 there NNS
@@ -39355,12 +39355,12 @@ said IN
 deposits IN
 Monday JJ
 were VBD
-about PRP$
+about PRP
 $ VBZ
 5 CD
 million VB
-higher PRP$
-than PRP$
+higher PRP
+than PRP
 usual NNP
 and POS
 it IN
@@ -39372,7 +39372,7 @@ investors NN
 receive JJ
 the DT
 proceeds NN
-from PRP$
+from PRP
 sales NNP
 of CC
 stock VBD
@@ -39398,7 +39398,7 @@ more CD
 ups CD
 and POS
 downs NNP
-than PRP$
+than PRP
 an RB
 elevator IN
 , ,
@@ -39551,7 +39551,7 @@ CDs CD
 to IN
 8 CD
 % VBD
-from PRP$
+from PRP
 7.9 VBD
 % DT
 . .
@@ -39593,7 +39593,7 @@ individual NNS
 investors NN
 fell DT
 less NN
-than PRP$
+than PRP
 half NN
 as NN
 much NNS
@@ -39627,7 +39627,7 @@ week NN
 ended NN
 Tuesday NN
 , ,
-down PRP$
+down PRP
 from VBD
 8.10 IN
 % NN
@@ -39647,7 +39647,7 @@ to VBD
 7.82 IN
 % JJ
 on IN
-Monday PRP$
+Monday PRP
 , ,
 from VBD
 8.01 DT
@@ -39667,7 +39667,7 @@ six-month IN
 CDs NNS
 of NNS
 more CD
-than PRP$
+than PRP
 $ NN
 90,000 NN
 fell DT
@@ -39683,7 +39683,7 @@ according IN
 to IN
 Banxquote IN
 , ,
-from PRP$
+from PRP
 8.10 VBD
 % DT
 the NNS
@@ -39810,8 +39810,8 @@ percentage JJ
 point IN
 or NN
 more CD
-higher PRP$
-than PRP$
+higher PRP
+than PRP
 banks NN
 . .
 
@@ -39875,7 +39875,7 @@ drop NNP
 rates NNP
 were VBD
 down NNP
-about PRP$
+about PRP
 half VBP
 a IN
 percentage IN
@@ -39932,7 +39932,7 @@ the DT
 World NNS
 Bank NN
 and POS
-International PRP$
+International PRP
 Monetary NN
 Fund JJ
 , ,
@@ -40149,7 +40149,7 @@ increase NNP
 $ VBZ
 14 CD
 billion RB
-from PRP$
+from PRP
 the DT
 U.S. CC
 -- NN
@@ -40159,10 +40159,10 @@ the DT
 IMF VB
 feeling NN
 less NN
-than PRP$
+than PRP
 first JJ
 fiddle CD
-among PRP$
+among PRP
 international VBD
 financial VBD
 institutions DT
@@ -40218,7 +40218,7 @@ countries DT
 . .
 
 While NN
-international PRP$
+international PRP
 politics NNS
 may NN
 argue NNS
@@ -40556,7 +40556,7 @@ a IN
 major JJ
 change NN
 in IN
-international PRP$
+international PRP
 economic NN
 policy NN
 , ,
@@ -40685,7 +40685,7 @@ energy NN
 and POS
 talent IN
 would VBP
-be PRP$
+be PRP
 diverted NN
 from NN
 creating NN
@@ -40766,7 +40766,7 @@ capital NNP
 increase NNP
 , ,
 rather NN
-than PRP$
+than PRP
 its CC
 purpose NNP
 . .
@@ -40860,7 +40860,7 @@ in NNP
 several NNP
 commodities VBN
 pits NNP
-from PRP$
+from PRP
 July NNP
 to NNP
 November NNP
@@ -40873,7 +40873,7 @@ said IN
 Mr. IN
 Roberts IN
 withheld IN
-from PRP$
+from PRP
 the DT
 market CD
 certain NNP
@@ -41030,7 +41030,7 @@ of CC
 Showtime CC
 Networks CC
 Inc. VBP
-from PRP$
+from PRP
 Viacom VB
 Inc. VB
 for $
@@ -41682,7 +41682,7 @@ years DT
 The DT
 union JJ
 represents NN
-about PRP$
+about PRP
 28,000 NNS
 engineers POS
 and NNP
@@ -41879,7 +41879,7 @@ Ackerman NN
 announced MD
 he PRP
 was IN
-soliciting PRP$
+soliciting PRP
 consents NN
 from IN
 shareholders IN
@@ -41887,7 +41887,7 @@ in IN
 order NNP
 to CC
 wrest CC
-control PRP$
+control PRP
 of IN
 Datapoint IN
 from IN
@@ -41917,7 +41917,7 @@ filing NN
 Mr. IN
 Edelman IN
 said IN
-from PRP$
+from PRP
 Sept. IN
 29 CD
 to IN
@@ -42196,7 +42196,7 @@ it IN
 would IN
 cost IN
 less NN
-than PRP$
+than PRP
 $ VBZ
 650 CD
 million NN
@@ -42352,7 +42352,7 @@ later DT
 The DT
 unit JJ
 stabilized NN
-about PRP$
+about PRP
 midday JJR
 New NNS
 York RB
@@ -42598,7 +42598,7 @@ at VBP
 marks NNS
 , ,
 down IN
-from PRP$
+from PRP
 1.8685 NN
 marks NN
 late NN
@@ -42610,7 +42610,7 @@ at VBP
 yen NNS
 , ,
 up NNS
-from PRP$
+from PRP
 141.85 VBN
 yen NN
 late JJ
@@ -42639,7 +42639,7 @@ at CC
 142.55 NNP
 yen IN
 , ,
-unchanged PRP$
+unchanged PRP
 from NN
 Tuesday ``
 's NN
@@ -42943,15 +42943,15 @@ rate NN
 to NN
 dip RB
 to IN
-about PRP$
+about PRP
 8 CD
 5\/8 NN
 % NN
-from PRP$
+from PRP
 its NN
 levels NNP
 of CC
-just PRP$
+just PRP
 below CD
 9 CD
 % VBD
@@ -43149,7 +43149,7 @@ covered CD
 by DT
 the JJ
 disputed $
-patents PRP$
+patents PRP
 account NN
 for VBD
 about CC
@@ -43482,7 +43482,7 @@ Foods IN
 which NN
 had NNP
 sales CC
-of PRP$
+of PRP
 about VBZ
 $ VBZ
 200 CD
@@ -43655,7 +43655,7 @@ million IN
 Dutch NN
 guilders NN
 -LRB- JJ
-US$ PRP$
+US$ PRP
 102 CD
 million NN
 -RRB- NN
@@ -43734,7 +43734,7 @@ Services NNP
 because IN
 it IN
 would VBN
-allow PRP$
+allow PRP
 federal IN
 funding CC
 of CC
@@ -43977,7 +43977,7 @@ it IN
 has IN
 had NN
 inquiries NN
-from PRP$
+from PRP
 potential NN
 buyers NN
 and POS
@@ -44236,7 +44236,7 @@ mean JJ
 they VBZ
 can RB
 benefit RB
-from PRP$
+from PRP
 the DT
 vaccine NN
 . .
@@ -44624,7 +44624,7 @@ paper IN
 , ,
 or VBD
 corporate IN
-IOUs PRP$
+IOUs PRP
 , ,
 from VBP
 8.483 NNP
@@ -44673,7 +44673,7 @@ auction VB
 of CC
 182-day VBN
 commercial NN
-paper PRP$
+paper PRP
 from VBD
 8.1255 VBP
 % NNP
@@ -44811,7 +44811,7 @@ climbed JJ
 to IN
 572 CD
 million PRP
-francs PRP$
+francs PRP
 from VB
 378 CD
 million DT
@@ -44845,7 +44845,7 @@ group DT
 's ``
 net IN
 loss JJ
-from PRP$
+from PRP
 nonrecurring JJ
 items JJ
 in IN
@@ -44859,7 +44859,7 @@ to IN
 104 CD
 million VBN
 francs VBN
-from PRP$
+from PRP
 163 CD
 million IN
 a IN
@@ -44883,7 +44883,7 @@ to IN
 25 CD
 million NN
 francs PRP
-from PRP$
+from PRP
 50 CD
 million VB
 a IN
@@ -44910,7 +44910,7 @@ payments NNS
 to IN
 199 CD
 million PRP
-francs PRP$
+francs PRP
 from RB
 35 CD
 million IN
@@ -44945,7 +44945,7 @@ revenue DT
 to IN
 10.16 RB
 billion PRP
-francs PRP$
+francs PRP
 from RB
 8.85 IN
 billion IN
@@ -44974,8 +44974,8 @@ D. JJ
 , ,
 N.D JJ
 . .
--RRB- PRP$
-are PRP$
+-RRB- PRP
+are PRP
 backing IN
 away VBD
 from DT
@@ -45248,7 +45248,7 @@ slipped NN
 % IN
 to VBZ
 $ VBN
-601.3 PRP$
+601.3 PRP
 million VBZ
 from VBN
 $ DT
@@ -45292,7 +45292,7 @@ general-purpose CD
 PVC PRP
 resin NNP
 have CD
-dropped PRP$
+dropped PRP
 more VBD
 than VBD
 15 CD
@@ -45366,7 +45366,7 @@ declined NN
 slightly NN
 to VBZ
 $ NN
-24.3 PRP$
+24.3 PRP
 million VBZ
 from VBN
 $ DT
@@ -45377,7 +45377,7 @@ million TO
 But VBZ
 operating NN
 profit MD
-from PRP$
+from PRP
 aerospace NN
 products VBN
 rose NN
@@ -45388,7 +45388,7 @@ to IN
 $ VBZ
 15 CD
 million VBN
-from PRP$
+from PRP
 $ VBZ
 10.1 VBN
 million DT
@@ -45796,7 +45796,7 @@ in IN
 Jaguar IN
 to IN
 10.4 IN
-% PRP$
+% PRP
 from NN
 5 CD
 % DT
@@ -45855,7 +45855,7 @@ pact DT
 it DT
 has DT
 been IN
-seeking PRP$
+seeking PRP
 in IN
 about NNS
 two IN
@@ -45908,10 +45908,10 @@ curbs DT
 prevent CD
 a IN
 buyer RB
-from PRP$
+from PRP
 purchasing NNS
 more CD
-than PRP$
+than PRP
 15 CD
 % VBD
 of NN
@@ -46120,7 +46120,7 @@ their NN
 Jaguar NN
 recommendations IN
 to IN
-hold PRP$
+hold PRP
 from CD
 buy DT
 . .
@@ -46391,7 +46391,7 @@ very NNS
 rich IN
 , ,
 very NNS
-determined PRP$
+determined PRP
 international CD
 companies DT
 . .
@@ -46592,7 +46592,7 @@ sold NN
 his IN
 Cincinnati NNP
 firm VBP
-'s PRP$
+'s PRP
 107,100 IN
 Jaguar RB
 ADRs IN
@@ -46752,7 +46752,7 @@ A.F. NNP
 Sloan IN
 , ,
 60 CD
-years PRP$
+years PRP
 old IN
 , ,
 announced ''
@@ -47122,7 +47122,7 @@ months NN
 to NN
 June IN
 30 CD
-was PRP$
+was PRP
 down JJ
 from NN
 # IN
@@ -47190,7 +47190,7 @@ steep NN
 to IN
 # JJ
 51.1 NN
-million PRP$
+million PRP
 from JJ
 # NN
 105 CD
@@ -47206,7 +47206,7 @@ up VBD
 fractionally IN
 to JJ
 # NN
-626.3 PRP$
+626.3 PRP
 million JJ
 from JJ
 # VB
@@ -47295,7 +47295,7 @@ or IN
 87 CD
 cents IN
 a IN
-share PRP$
+share PRP
 , ,
 up NN
 from IN
@@ -47436,7 +47436,7 @@ applications NN
 which PRP
 have NNS
 lower NNS
-margins PRP$
+margins PRP
 than NNP
 do NN
 operating NN
@@ -47492,7 +47492,7 @@ quarter JJ
 and NN
 13 CD
 % VBD
-from PRP$
+from PRP
 the DT
 previous NN
 period NN
@@ -48184,7 +48184,7 @@ half CD
 of CC
 Showtime VBZ
 Networks CC
-from PRP$
+from PRP
 Viacom VB
 for $
 $ VBZ
@@ -48558,7 +48558,7 @@ recently CD
 by IN
 a IN
 competing JJ
-offer PRP$
+offer PRP
 from IN
 a RB
 Swedish VBG
@@ -48616,7 +48616,7 @@ $ VBZ
 million VBN
 , ,
 bid VBN
-from PRP$
+from PRP
 AB NN
 SKF NN
 of NN
@@ -48755,7 +48755,7 @@ president RB
 of CC
 United VBN
 Press NNS
-International PRP$
+International PRP
 and POS
 the DT
 Univision DT
@@ -48836,7 +48836,7 @@ francs VBZ
 -LRB- IN
 $ VBN
 21.1 JJ
-million PRP$
+million PRP
 -RRB- NN
 from VB
 130.1 IN
@@ -48931,7 +48931,7 @@ by NNS
 a NNS
 capital NNS
 gain NNS
-from PRP$
+from PRP
 the DT
 sale NNP
 of CC
@@ -48993,7 +48993,7 @@ B\/T VBN
 gene RB
 rearrangement NN
 test CD
-is PRP$
+is PRP
 more NN
 accurate NNP
 than $
@@ -49207,13 +49207,13 @@ a IN
 test RB
 and VBZ
 projects NN
-about PRP$
+about PRP
 $ VBZ
 2 CD
 million NN
 in IN
 revenue DT
-from PRP$
+from PRP
 the DT
 test JJ
 during JJ
