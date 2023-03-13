@@ -10,5 +10,5 @@ We have implemented three models for POS Tagging:
       * Bidirectional LSTM - 88.2%
 
 Even though MLP models have higher accuracy, HMM seems to perform better when the results were compared. 
-So, please consider this HMM's labeled test file for evaluation - https://github.com/vskc23/Titans_NLP/blob/main/titans.test.txt
+So, please consider this HMM's labeled test file for evaluation - https://github.com/vskc23/Titans_NLP/blob/main/HMM/titans.testt.txt
     
