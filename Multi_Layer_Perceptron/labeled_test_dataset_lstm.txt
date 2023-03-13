@@ -320,12 +320,12 @@ third-quarter NN
 loss JJ
 of CC
 $ NN
-59.4 JJ
+59.4 CD
 million NN
 , ,
 or NN
 $ VBZ
-2.48 NN
+2.48 CD
 a IN
 share IN
 . .
@@ -341,7 +341,7 @@ had NN
 earnings NN
 of NN
 $ VBZ
-8.1 NNP
+8.1 CD
 million VBZ
 , ,
 or NN
@@ -362,12 +362,12 @@ a IN
 loss IN
 of NN
 $ NN
-58.3 NN
+58.3 CD
 million NN
 , ,
 or NN
 $ VBZ
-2.44 NN
+2.44 CD
 a NN
 share IN
 , ,
@@ -375,12 +375,12 @@ after IN
 earnings NN
 of NN
 $ NN
-29.5 NN
+29.5 CD
 million NN
 , ,
 or NN
 $ VBZ
-1.20 NN
+1.20 CD
 a IN
 share IN
 , ,
@@ -504,7 +504,7 @@ it IN
 posted NNS
 a IN
 $ VBZ
-7.6 VBZ
+7.6 CD
 million VB
 reduction NN
 in IN
@@ -608,7 +608,7 @@ company :
 , ,
 dived VBG
 $ VBZ
-24.875 VBZ
+24.875 CD
 on IN
 the DT
 Big NN
@@ -635,7 +635,7 @@ paper NNP
 losses NNP
 of NNP
 $ NNP
-49.5 VBZ
+49.5 CD
 million NN
 , ,
 based NNP
@@ -730,7 +730,7 @@ another RB
 250,000 NN
 at VBP
 $ VBZ
-83.3125 NNP
+83.3125 CD
 each JJR
 . .
 
@@ -744,7 +744,7 @@ that ''
 totaled VBN
 about PRP
 $ VBZ
-76.7 NN
+76.7 CD
 million NN
 . .
 
@@ -762,7 +762,7 @@ for IN
 a IN
 paltry NNP
 $ NNP
-43.5 NNP
+43.5 CD
 million NNP
 . .
 
@@ -916,7 +916,7 @@ to IN
 a IN
 combined NNP
 $ VBZ
-37.7 NNP
+37.7 CD
 million NN
 under JJ
 the DT
@@ -927,7 +927,7 @@ buy-out NN
 but VBZ
 just NN
 $ VBZ
-21.3 VBZ
+21.3 CD
 million NN
 at VBP
 yesterday NNP
@@ -939,7 +939,7 @@ Of CC
 the DT
 combined NNP
 $ VBZ
-114.4 VBZ
+114.4 CD
 million VB
 the DT
 two IN
@@ -1264,7 +1264,7 @@ shares MD
 based NNP
 on IN
 the IN
-3.7 IN
+3.7 CD
 million NN
 shares MD
 outstanding NNP
@@ -1285,7 +1285,7 @@ Facilities JJ
 closed NN
 at VBP
 $ VBZ
-3.625 NN
+3.625 CD
 , ,
 unchanged NNS
 . .
@@ -1438,11 +1438,11 @@ quarter RB
 rose NN
 to IN
 $ VBZ
-1.63 VBZ
+1.63 CD
 billion RB
 from PRP
 $ VBZ
-1.47 VBN
+1.47 CD
 billion RB
 . .
 
@@ -1532,7 +1532,7 @@ shares MD
 closed NNP
 at VBP
 $ VBZ
-75.25 NNS
+75.25 CD
 , ,
 up NNP
 50 CD
@@ -1614,7 +1614,7 @@ than NN
 to NN
 about PRP
 $ NN
-6.10 NN
+6.10 CD
 . .
 
 Sales NNP
@@ -1624,11 +1624,11 @@ quarter RB
 rose NN
 to IN
 $ VBZ
-1.11 VBZ
+1.11 CD
 billion RB
 from PRP
 $ VBZ
-1.03 VBZ
+1.03 CD
 billion RB
 . .
 
@@ -1765,13 +1765,13 @@ shares MD
 closed NN
 at VBP
 $ VBZ
-109.50 NNP
+109.50 CD
 a IN
 share IN
 , ,
 up IN
 $ VBZ
-1.50 VBZ
+1.50 CD
 , ,
 in IN
 Big IN
@@ -1886,11 +1886,11 @@ rose NN
 % VBD
 to NNP
 $ VBZ
-1.045 NN
+1.045 CD
 billion RB
 from PRP
 $ VBZ
-940.6 VBZ
+940.6 CD
 million NN
 . .
 
@@ -1901,11 +1901,11 @@ grew CD
 % VBD
 to IN
 $ VBZ
-3.39 <PAD>
+3.39 CD
 billion RB
 from PRP
 $ VBZ
-3.03 NN
+3.03 CD
 billion RB
 a IN
 year IN
@@ -1992,7 +1992,7 @@ $ VBZ
 62.25 CD
 , ,
 down NN
-12.5 IN
+12.5 CD
 cents RB
 . .
 
@@ -2024,7 +2024,7 @@ between JJ
 cents RB
 and POS
 $ VBZ
-1.05 NNS
+1.05 CD
 a IN
 share IN
 . .
@@ -2072,7 +2072,7 @@ increased NN
 to IN
 between IN
 $ NN
-69.5 NN
+69.5 CD
 million NN
 and VBZ
 $ VBZ
@@ -2081,7 +2081,7 @@ million VBZ
 , ,
 from PRP
 $ VBZ
-47.1 NN
+47.1 CD
 million NN
 the DT
 year-before DT
@@ -2101,7 +2101,7 @@ about NN
 % VBD
 to IN
 $ VBZ
-1.29 NN
+1.29 CD
 billion RB
 . .
 
@@ -7812,7 +7812,7 @@ share IN
 , ,
 from IN
 $ IN
-89.6 IN
+89.6 CD
 million VBN
 , ,
 or NN
@@ -7846,7 +7846,7 @@ available NN
 Industrial RB
 production NN
 declined JJ
-0.1 JJ
+0.1 CD
 % VBD
 in IN
 September IN
@@ -7885,7 +7885,7 @@ an RB
 annual NNS
 rate NN
 of CC
-1.3 NNP
+1.3 CD
 % VBD
 in IN
 the DT
@@ -7896,7 +7896,7 @@ substantially JJ
 slower JJ
 than PRP
 the DT
-3.3 DT
+3.3 CD
 % NN
 annual IN
 rate NN
@@ -8020,7 +8020,7 @@ U.S. CC
 industry NNP
 operated NNP
 at VBP
-83.6 VBP
+83.6 CD
 % VBN
 of CC
 capacity CC
@@ -8029,7 +8029,7 @@ month IN
 , ,
 down NN
 from PRP
-83.8 NN
+83.8 CD
 % VBD
 in IN
 August NN
@@ -8050,7 +8050,7 @@ measures VBD
 Factory NNP
 output NNP
 dropped NNP
-0.2 NNP
+0.2 CD
 % VBD
 , ,
 its CC
@@ -8070,7 +8070,7 @@ October NNS
 Factories NN
 operated JJ
 at VBP
-83.7 JJ
+83.7 CD
 % VBD
 of CC
 capacity NN
@@ -8086,7 +8086,7 @@ year IN
 and IN
 down NN
 from PRP
-84.1 NN
+84.1 CD
 % VBD
 in IN
 September IN
@@ -8158,7 +8158,7 @@ investment NN
 spending JJ
 , ,
 fell DT
-0.3 NN
+0.3 CD
 % NN
 . .
 
@@ -8272,7 +8272,7 @@ seasonally VB
 adjusted NN
 . .
 
-142.3 NNS
+142.3 CD
 % VBD
 of CC
 the DT
@@ -8561,7 +8561,7 @@ in IN
 the DT
 mid-1970s NN
 was IN
-13.4 <PAD>
+13.4 CD
 per <PAD>
 100,000 <PAD>
 , ,
@@ -8578,12 +8578,12 @@ in NNP
 the DT
 mid-1980s NNP
 was IN
-9.6 NNP
+9.6 CD
 , ,
 a IN
 decline IN
 of CC
-28.7 CC
+28.7 CD
 % CC
 . .
 
@@ -8598,7 +8598,7 @@ for $
 black NN
 males CD
 was IN
-14.2 NN
+14.2 CD
 % NN
 . .
 
@@ -8613,12 +8613,12 @@ was IN
 less NN
 steep NN
 -- NN
-8.9 NN
+8.9 CD
 % NN
 for $
 blacks CD
 and POS
-5.3 JJ
+5.3 CD
 % VBD
 for $
 whites VBD
@@ -9367,14 +9367,14 @@ Nasdaq NNS
 Composite IN
 closed NN
 down NN
-1.05 NNS
+1.05 CD
 , ,
 or NN
-0.2 NNP
+0.2 CD
 % VBD
 , ,
 to IN
-459.93 IN
+459.93 CD
 . .
 
 The DT
@@ -9402,7 +9402,7 @@ began JJ
 the DT
 day NNS
 at VBP
-449.89 JJ
+449.89 CD
 , ,
 lost NNS
 2 CD
@@ -9414,7 +9414,7 @@ point IN
 and IN
 was IN
 up IN
-0.4 NNP
+0.4 CD
 % VBD
 at VBD
 another RB
@@ -9429,10 +9429,10 @@ nonfinancial NN
 stocks DT
 settled NN
 at VBP
-448.49 VBN
+448.49 CD
 , ,
 off VBN
-1.40 NNS
+1.40 CD
 . .
 
 Its CC
@@ -9452,9 +9452,9 @@ the DT
 day NNS
 , ,
 sliding NNS
-2.51 IN
+2.51 CD
 to IN
-453.57 IN
+453.57 CD
 by IN
 the IN
 end NN
@@ -9719,7 +9719,7 @@ Share IN
 turnover NN
 subsided NN
 to IN
-161.5 NNP
+161.5 CD
 million NN
 . .
 
@@ -9885,7 +9885,7 @@ material NNP
 valued NNP
 at CC
 $ NNP
-13.6 NNP
+13.6 CD
 million VBN
 . .
 
@@ -9916,7 +9916,7 @@ jumped NN
 to IN
 44 CD
 on IN
-1.7 IN
+1.7 CD
 million VB
 shares MD
 . .
@@ -10070,7 +10070,7 @@ to IN
 42 CD
 3\/8 NNS
 on IN
-4.7 NNS
+4.7 CD
 million VB
 shares MD
 even VB
@@ -10106,12 +10106,12 @@ earnings NN
 improved NN
 to IN
 $ VBZ
-1.27 RB
+1.27 CD
 a IN
 share IN
 from PRP
 $ VBZ
-1.15 IN
+1.15 CD
 a IN
 share IN
 a IN
@@ -10131,7 +10131,7 @@ reserves NNS
 rose NN
 to IN
 $ VBZ
-177.3 IN
+177.3 CD
 million VBN
 from PRP
 $ VBZ
@@ -11223,7 +11223,7 @@ net IN
 fell IN
 to IN
 $ IN
-12.7 RB
+12.7 CD
 million VBN
 , ,
 or NN
@@ -11234,7 +11234,7 @@ share IN
 , ,
 from IN
 $ IN
-39.9 IN
+39.9 CD
 million VB
 , ,
 or NN
@@ -11302,7 +11302,7 @@ was IN
 flat IN
 at VBP
 $ VBZ
-1.02 VBN
+1.02 CD
 billion RB
 . .
 
@@ -11494,7 +11494,7 @@ expenses JJ
 -- NN
 to NN
 $ NN
-324.9 NN
+324.9 CD
 million NN
 -- NN
 to NN
@@ -11559,7 +11559,7 @@ share IN
 , ,
 from PRP
 $ IN
-93.8 NNS
+93.8 CD
 million NN
 , ,
 or NN
@@ -11575,7 +11575,7 @@ flat IN
 at VBP
 about PRP
 $ VBZ
-2.97 JJ
+2.97 CD
 billion RB
 . .
 
@@ -11594,7 +11594,7 @@ said IN
 it IN
 repurchased IN
 about IN
-1.2 IN
+1.2 CD
 million NN
 of CC
 its CC
@@ -11627,7 +11627,7 @@ acquired NN
 a IN
 total IN
 of CC
-9.7 NNS
+9.7 CD
 million VBN
 shares MD
 . .
@@ -11652,18 +11652,18 @@ rose NN
 % VBD
 to IN
 $ VBZ
-269.3 VBD
+269.3 CD
 million VBN
 , ,
 or NN
 $ VBZ
-1.02 VBN
+1.02 CD
 a IN
 share IN
 , ,
 from IN
 $ IN
-241.6 NN
+241.6 CD
 million NN
 , ,
 or NN
@@ -11679,11 +11679,11 @@ rose NN
 % VBD
 to IN
 $ VBZ
-3.90 NN
+3.90 CD
 billion RB
 from PRP
 $ VBZ
-3.13 VBZ
+3.13 CD
 billion RB
 . .
 
@@ -11698,7 +11698,7 @@ after-tax RB
 charge NN
 of CC
 $ VBZ
-5.9 VBZ
+5.9 CD
 million VBN
 from PRP
 the DT
@@ -11725,12 +11725,12 @@ Enterprises NNS
 closed IN
 at VBP
 $ VBZ
-16.375 JJ
+16.375 CD
 a IN
 share IN
 , ,
 down IN
-62.5 NN
+62.5 CD
 cents NN
 . .
 
@@ -11738,13 +11738,13 @@ PepsiCo VBN
 closed NN
 at VBP
 $ VBZ
-58.50 NN
+58.50 CD
 a IN
 share IN
 , ,
 up IN
 $ VBZ
-1.375 NNS
+1.375 CD
 . .
 
 L.J. NN
@@ -12096,7 +12096,7 @@ operating NN
 profit MD
 of CC
 $ VBZ
-2.5 NNP
+2.5 CD
 million VBN
 . .
 
@@ -12914,7 +12914,7 @@ skidded NNP
 % VBD
 to IN
 $ VBZ
-32.6 VBN
+32.6 CD
 million VBN
 , ,
 or NN
@@ -12936,7 +12936,7 @@ had NN
 net NN
 of NN
 $ NNP
-49.8 VBZ
+49.8 CD
 million NN
 , ,
 or NN
@@ -12953,11 +12953,11 @@ $ VBZ
 million VBN
 , ,
 up IN
-0.5 NN
+0.5 CD
 % VBD
 from PRP
 $ VBZ
-619.8 JJ
+619.8 CD
 million VBN
 a IN
 year IN
@@ -13083,7 +13083,7 @@ million VBN
 , ,
 or NN
 $ VBZ
-2.33 NN
+2.33 CD
 a IN
 share IN
 , ,
@@ -13092,12 +13092,12 @@ down IN
 % NNP
 from PRP
 $ VBZ
-187.8 VBZ
+187.8 CD
 million NN
 , ,
 or NN
 $ VBZ
-2.82 IN
+2.82 CD
 a IN
 share IN
 , ,
@@ -13108,15 +13108,15 @@ ago IN
 
 Sales NNP
 rose NN
-5.2 NN
+5.2 CD
 % VBD
 to IN
 $ VBZ
-2.04 VBN
+2.04 CD
 billion RB
 from PRP
 $ VBZ
-1.94 NN
+1.94 CD
 billion RB
 the DT
 previous NN
@@ -13143,7 +13143,7 @@ share IN
 , ,
 down IN
 $ VBZ
-1.75 IN
+1.75 CD
 . .
 
 Michael NNP
@@ -14359,7 +14359,7 @@ charged DT
 in IN
 a IN
 $ VBZ
-1.1 IN
+1.1 CD
 billion RB
 civil NNP
 lawsuit NNP
@@ -15161,7 +15161,7 @@ Eastern RB
 to IN
 sell CD
 $ VBZ
-1.8 IN
+1.8 CD
 billion RB
 in IN
 assets IN
@@ -18566,7 +18566,7 @@ Inc. VBP
 , ,
 offering RB
 of CC
-2.5 NNP
+2.5 CD
 million VB
 common NNP
 shares MD
@@ -18670,7 +18670,7 @@ Average IN
 down NN
 more CD
 than PRP
-60.25 NN
+60.25 CD
 points CD
 early JJ
 in IN
@@ -18678,11 +18678,11 @@ the DT
 day NNS
 , ,
 finished NNS
-18.65 NNS
+18.65 CD
 points IN
 lower NNS
 at VBP
-2638.73 RB
+2638.73 CD
 . .
 
 Long-term NNP
@@ -18787,7 +18787,7 @@ in NN
 August NN
 to VBZ
 $ NN
-10.77 RB
+10.77 CD
 billion DT
 . .
 
@@ -19103,7 +19103,7 @@ ending IN
 the DT
 day NNS
 at VBP
-8.03 VBD
+8.03 CD
 % DT
 . .
 
@@ -19123,20 +19123,20 @@ the DT
 dollar NNS
 rose NN
 to IN
-142.75 IN
+142.75 CD
 yen IN
 from PRP
-141.80 VBG
+141.80 CD
 yen JJ
 Monday IN
 , ,
 but DT
 fell IN
 to IN
-1.8667 NN
+1.8667 CD
 marks PRP
 from VBN
-1.8685 NN
+1.8685 CD
 marks DT
 . .
 
@@ -19449,7 +19449,7 @@ net NN
 income IN
 to VBZ
 $ NN
-166.8 IN
+166.8 CD
 million NN
 , ,
 or IN
@@ -19472,7 +19472,7 @@ reported DT
 profit MD
 of CC
 $ VBZ
-144.9 VBN
+144.9 CD
 million IN
 , ,
 or NN
@@ -19488,11 +19488,11 @@ rose NN
 % VBD
 to IN
 $ VBZ
-2.57 RB
+2.57 CD
 billion PRP
 from VBZ
 $ RB
-2.36 DT
+2.36 CD
 billion TO
 . .
 
@@ -19512,23 +19512,23 @@ in IN
 profit MD
 to IN
 $ VBZ
-469.8 VBN
+469.8 CD
 million IN
 , ,
 or VBZ
 $ IN
-2.21 IN
+2.21 CD
 a IN
 share IN
 , ,
 from NN
 $ IN
-410.3 NN
+410.3 CD
 million VBZ
 , ,
 or IN
 $ IN
-1.95 NN
+1.95 CD
 a NN
 share NN
 . .
@@ -19539,11 +19539,11 @@ rose NN
 % VBD
 to IN
 $ VBZ
-7.54 RB
+7.54 CD
 billion PRP
 from VBZ
 $ RB
-6.95 DT
+6.95 CD
 billion TO
 . .
 
@@ -19743,7 +19743,7 @@ countries CD
 making IN
 a IN
 $ IN
-1.6 NNP
+1.6 CD
 billion RB
 third-quarter NN
 addition NN
@@ -19794,7 +19794,7 @@ World NNS
 countries CD
 to IN
 $ VBZ
-2.6 NN
+2.6 CD
 billion RB
 , ,
 or NN
@@ -19974,7 +19974,7 @@ reported DT
 net IN
 income NN
 climbed JJ
-9.8 VBD
+9.8 CD
 % IN
 , ,
 while IN
@@ -19989,7 +19989,7 @@ Columbus NNS
 Ohio CD
 , ,
 grew CD
-3.8 NN
+3.8 CD
 % NN
 . .
 
@@ -20231,7 +20231,7 @@ current NN
 level CC
 of VBZ
 $ VBZ
-2.6 VBZ
+2.6 CD
 billion IN
 , ,
 covering PRP
@@ -20241,7 +20241,7 @@ about NNP
 of DT
 the VBZ
 $ NNP
-8.9 RB
+8.9 CD
 billion CC
 of NNS
 such NN
@@ -20430,7 +20430,7 @@ interest VBZ
 income VBZ
 rose NN
 $ VBZ
-36.3 NN
+36.3 CD
 million NN
 , ,
 or NN
@@ -20452,11 +20452,11 @@ fell DT
 slightly NN
 to NN
 $ VBZ
-191.9 NN
+191.9 CD
 million PRP
 from VBZ
 $ VBN
-193.3 IN
+193.3 CD
 million NN
 , ,
 while VBZ
@@ -20475,7 +20475,7 @@ almost VBZ
 flat VBN
 at DT
 $ TO
-393.4 VB
+393.4 CD
 million <PAD>
 . .
 
@@ -20493,7 +20493,7 @@ gave NN
 Wells VBD
 Fargo VBZ
 a IN
-1.25 IN
+1.25 CD
 % VBD
 return NN
 on IN
@@ -20537,10 +20537,10 @@ on IN
 equity NN
 increased NN
 to NN
-24.4 VBD
+24.4 CD
 % PRP
 from VBD
-23.8 DT
+23.8 CD
 % TO
 . .
 
@@ -20581,11 +20581,11 @@ previous IN
 quarter VBZ
 to NN
 $ PRP
-806.8 VBZ
+806.8 CD
 million VBN
 from DT
 $ TO
-880.9 TO
+880.9 CD
 million VB
 . .
 
@@ -20761,7 +20761,7 @@ less-developed IN
 countries CD
 to IN
 $ VBZ
-2.4 RB
+2.4 CD
 billion IN
 , ,
 covering NNP
@@ -20863,7 +20863,7 @@ unrelated NNS
 to IN
 interest VBZ
 rose NN
-5.4 VBD
+5.4 CD
 % IN
 , ,
 to IN
@@ -20903,12 +20903,12 @@ third NNS
 quarter RB
 edged NN
 up VBD
-1.4 NNS
+1.4 CD
 % VBD
 , ,
 to IN
 $ IN
-317.7 VBN
+317.7 CD
 million DT
 . .
 
@@ -20920,7 +20920,7 @@ grew CD
 , ,
 to IN
 $ IN
-49.9 NN
+49.9 CD
 million IN
 , ,
 while NN
@@ -20936,7 +20936,7 @@ increased JJ
 , ,
 to IN
 $ NN
-79.4 DT
+79.4 CD
 million TO
 . .
 
@@ -20950,11 +20950,11 @@ credit NNP
 losses IN
 was VBZ
 $ VBZ
-502.1 IN
+502.1 CD
 million NN
 , ,
 or NN
-1.82 CC
+1.82 CD
 % NN
 of DT
 total TO
@@ -21758,7 +21758,7 @@ India NNS
 signed RB
 a IN
 $ VBZ
-1.4 NNS
+1.4 CD
 billion RB
 contract CD
 with NNP
@@ -22219,7 +22219,7 @@ enters NNS
 into IN
 a IN
 $ NNS
-1.4 RB
+1.4 CD
 billion NNS
 contract NNP
 with NNS
@@ -22610,7 +22610,7 @@ government DT
 . .
 
 Oct. NN
-9. JJ
+9. CD
 1989 CD
 : TO
 
@@ -22694,7 +22694,7 @@ Elkhorn NNP
 which MD
 together NNP
 hold JJ
-8.685 VBD
+8.685 CD
 % CC
 of VBN
 CACI ``
@@ -22827,10 +22827,10 @@ past VBP
 days IN
 at VBZ
 $ IN
-2.3125 IN
+2.3125 CD
 to IN
 $ TO
-2.4375 TO
+2.4375 CD
 a NN
 share <PAD>
 . .
@@ -23065,7 +23065,7 @@ system CD
 by VBZ
 arranging <PAD>
 $ RB
-1.5 CC
+1.5 CD
 billion NNS
 of <PAD>
 repurchase NNS
@@ -23488,7 +23488,7 @@ Some NNS
 traders DT
 estimate NNS
 $ VBZ
-9.75 RB
+9.75 CD
 billion CC
 of JJR
 new JJ
@@ -23557,7 +23557,7 @@ priced NN
 a IN
 four-part NN
 $ VBZ
-2.27 NN
+2.27 CD
 billion RB
 bond $
 offering DT
@@ -23567,10 +23567,10 @@ banks IN
 to PRP
 yield VBD
 from IN
-8.125 VBD
+8.125 CD
 % IN
 to TO
-8.375 TO
+8.375 CD
 % TO
 . .
 
@@ -23601,7 +23601,7 @@ a IN
 surprisingly IN
 wide IN
 $ VBZ
-10.77 NN
+10.77 CD
 billion RB
 in IN
 August VBZ
@@ -23611,7 +23611,7 @@ from PRP
 a IN
 revised NN
 $ VBZ
-8.24 NN
+8.24 CD
 billion RB
 in IN
 July NNP
@@ -23627,7 +23627,7 @@ have PRP
 expanded JJ
 to IN
 $ VBZ
-9.1 IN
+9.1 CD
 billion RB
 . .
 
@@ -23658,7 +23658,7 @@ at VBP
 28\/32 IN
 to IN
 yield VBD
-8.04 IN
+8.04 CD
 % NNS
 , ,
 compared VBD
@@ -23667,7 +23667,7 @@ with IN
 19\/32 NNS
 to VBD
 yield JJ
-7.97 DT
+7.97 CD
 % TO
 Monday TO
 . .
@@ -23684,7 +23684,7 @@ at VBP
 25\/32 IN
 to NNS
 yield <PAD>
-8.01 VBD
+8.01 CD
 % IN
 , ,
 compared NNP
@@ -23693,7 +23693,7 @@ with RB
 1\/32 IN
 to NNS
 yield VBD
-7.97 DT
+7.97 CD
 % TO
 . .
 
@@ -23710,14 +23710,14 @@ three-month NNP
 bills NNP
 rose NN
 to IN
-7.52 VBD
+7.52 CD
 % $
 for IN
 a IN
 bond-equivalent NNS
 yield CC
 of VBD
-7.75 DT
+7.75 CD
 % TO
 . .
 
@@ -23728,14 +23728,14 @@ six-month IN
 bills CD
 rose NN
 to IN
-7.53 VBD
+7.53 CD
 % $
 for IN
 a IN
 bond-equivalent IN
 yield CC
 of VBD
-7.92 DT
+7.92 CD
 % TO
 . .
 
@@ -23789,7 +23789,7 @@ bonds CD
 priced NN
 to NN
 yield NNS
-9.06 IN
+9.06 CD
 % IN
 ; VBZ
 $ NN
@@ -23801,7 +23801,7 @@ notes NN
 priced IN
 to IN
 yield VBD
-8.42 VBD
+8.42 CD
 % POS
 ; VBZ
 and NN
@@ -23814,7 +23814,7 @@ notes IN
 priced IN
 to VBD
 yield DT
-8.33 TO
+8.33 CD
 % TO
 . .
 
@@ -23853,7 +23853,7 @@ part NN
 of CC
 a IN
 $ NN
-6.7 VBZ
+6.7 CD
 billion NNP
 refinancing IN
 plan IN
@@ -23890,7 +23890,7 @@ note RB
 offering IN
 to NNS
 yield VBD
-9.39 DT
+9.39 CD
 % TO
 . .
 
@@ -24100,7 +24100,7 @@ Mae NNP
 issue VBD
 was VBN
 yielding IN
-9.43 VBD
+9.43 CD
 % IN
 to IN
 a IN
@@ -24217,7 +24217,7 @@ The DT
 lists NNS
 total NNS
 $ VBZ
-654.5 VBN
+654.5 CD
 million DT
 . .
 
@@ -24259,7 +24259,7 @@ preliminary JJ
 pricing $
 for VBZ
 $ VB
-144.4 CC
+144.4 CD
 million VBN
 of JJ
 California JJ
@@ -24280,12 +24280,12 @@ yields VBD
 were NNS
 set PRP
 from NNS
-6.25 VBD
+6.25 CD
 % IN
 in IN
 1993 CD
 to VBD
-7.227 IN
+7.227 CD
 % DT
 in TO
 2018 CD
@@ -24302,7 +24302,7 @@ Plan IN
 Connecticut IN
 offered IN
 $ NN
-100.4 CC
+100.4 CD
 million NN
 of NN
 general JJ
@@ -24316,12 +24316,12 @@ yield PRP
 to NNS
 maturity VBD
 from IN
-6.25 NN
+6.25 CD
 % IN
 in VBD
 1994 CD
 to IN
-6.90 IN
+6.90 CD
 % DT
 in NN
 2006 CD
@@ -24361,7 +24361,7 @@ The DT
 % VBD
 notes NN
 yield NN
-6.25 NNS
+6.25 CD
 % VBD
 . .
 
@@ -24414,19 +24414,19 @@ October NNP
 1999 CD
 was VBP
 at NN
-99.95 NNP
+99.95 CD
 late IN
 yesterday IN
 , ,
 off IN
-0.10 PRP
+0.10 CD
 point JJ
 from IN
 Monday IN
 , ,
 to VBD
 yield IN
-7.01 TO
+7.01 CD
 % TO
 . .
 
@@ -24440,13 +24440,13 @@ April NN
 1994 CD
 were VBD
 up VBD
-0.10 VBD
+0.10 CD
 point IN
 to IN
-97.85 IN
+97.85 CD
 to IN
 yield IN
-7.31 DT
+7.31 CD
 % TO
 . .
 
@@ -24478,7 +24478,7 @@ to IN
 10\/32 DT
 to TO
 yield TO
-10.03 <PAD>
+10.03 CD
 % <PAD>
 . .
 
@@ -24493,7 +24493,7 @@ The DT
 benchmark DT
 No. NN
 111 CD
-4.6 NN
+4.6 CD
 % NN
 bond NN
 due IN
@@ -24510,11 +24510,11 @@ of IN
 96 CD
 , ,
 off IN
-0.15 IN
+0.15 CD
 point TO
 to TO
 yield TO
-5.27 <PAD>
+5.27 CD
 % <PAD>
 . .
 
@@ -25145,12 +25145,12 @@ station VBD
 is NN
 promised VBZ
 $ NN
-1.8 RB
+1.8 CD
 billion RB
 within DT
 the VBZ
 $ RB
-5.36 RB
+5.36 CD
 billion $
 provided DT
 for POS
@@ -25230,7 +25230,7 @@ statutory NN
 limit NN
 of CC
 $ VBZ
-1.6 NNP
+1.6 CD
 billion VBZ
 on IN
 the DT
@@ -25295,14 +25295,14 @@ by VBD
 to VBZ
 about VBN
 $ DT
-829.9 TO
+829.9 CD
 million TO
 . .
 
 An RB
 estimated RB
 $ VBZ
-1.57 RB
+1.57 CD
 billion NN
 is VBZ
 separately $
@@ -25325,7 +25325,7 @@ Department PRP
 more RB
 than NN
 $ VB
-9.2 $
+9.2 CD
 billion CD
 is VBD
 provided IN
@@ -25541,7 +25541,7 @@ report RB
 covering IN
 an RB
 $ VBZ
-18.4 RB
+18.4 CD
 billion RB
 Treasury VBZ
 and NN
@@ -25858,7 +25858,7 @@ volume JJ
 ended NNP
 at VBP
 $ VBZ
-371.20 RB
+371.20 CD
 an RB
 ounce DT
 . .
@@ -26619,7 +26619,7 @@ a IN
 barrel IN
 to IN
 $ VBZ
-20.75 IN
+20.75 CD
 a IN
 barrel IN
 . .
@@ -26661,12 +26661,12 @@ The DT
 March VBN
 contract CD
 advanced NNS
-0.14 IN
+0.14 CD
 cent IN
 a IN
 pound DT
 to TO
-14.11 TO
+14.11 CD
 cents <PAD>
 . .
 
@@ -26786,7 +26786,7 @@ traded CD
 as IN
 high NNP
 as IN
-14.24 RB
+14.24 CD
 cents IN
 , ,
 but VBZ
@@ -27005,7 +27005,7 @@ Ryder IN
 placed IN
 about NNP
 $ RB
-2.8 IN
+2.8 CD
 billion :
 in NNS
 company JJ
@@ -28439,7 +28439,7 @@ plans RB
 to IN
 raise NN
 $ VBZ
-1.55 RB
+1.55 CD
 billion IN
 in JJR
 new NN
@@ -28451,7 +28451,7 @@ Monday CC
 of PRP
 about VBZ
 $ RB
-15.6 IN
+15.6 CD
 billion JJ
 in IN
 short-term IN
@@ -28644,7 +28644,7 @@ private JJ
 in IN
 an RB
 $ VBZ
-8.2 RB
+8.2 CD
 billion RB
 leveraged VBP
 buy-out IN
@@ -32673,7 +32673,7 @@ structure TO
 With NNP
 funds NN
 of CC
-5.56 RB
+5.56 CD
 billion NNP
 Hong CD
 Kong CD
@@ -33073,7 +33073,7 @@ net NN
 income NN
 of NNP
 $ NN
-29.9 IN
+29.9 CD
 million NN
 , ,
 or NN
@@ -33148,14 +33148,14 @@ third NNS
 quarter RB
 was IN
 $ VBZ
-437.7 VBN
+437.7 CD
 million IN
 , ,
 almost NNS
 unchanged PRP
 from VBZ
 $ VBN
-436.3 IN
+436.3 CD
 million IN
 a IN
 year IN
@@ -33173,7 +33173,7 @@ interest VBZ
 costs VBZ
 of CC
 $ VBZ
-63.1 VBZ
+63.1 CD
 million $
 for DT
 the NNS
@@ -33203,7 +33203,7 @@ net IN
 loss IN
 of NNS
 $ IN
-54.1 VBN
+54.1 CD
 million IN
 , ,
 or VBZ
@@ -33405,12 +33405,12 @@ reported DT
 earnings NN
 of CC
 $ NN
-98.5 NN
+98.5 CD
 million IN
 , ,
 or VBZ
 $ RB
-1.27 IN
+1.27 CD
 a IN
 share IN
 . .
@@ -33426,7 +33426,7 @@ nine-month VBD
 loss JJ
 of NNS
 $ VBZ
-15.1 VBN
+15.1 CD
 million IN
 , ,
 or NN
@@ -33452,7 +33452,7 @@ $ VBZ
 , ,
 up NNS
 $ VBZ
-1.125 VBZ
+1.125 CD
 . .
 
 Why VBD
@@ -33480,7 +33480,7 @@ dance CD
 : IN
 It IN
 plunged IN
-60.25 NNS
+60.25 CD
 points CD
 before VBP
 lunch CD
@@ -33504,7 +33504,7 @@ to IN
 finish IN
 down NN
 only PRP
-18.65 NN
+18.65 CD
 points NN
 . .
 
@@ -37175,7 +37175,7 @@ net IN
 income NN
 to IN
 $ VBZ
-76.5 NN
+76.5 CD
 million IN
 , ,
 or NN
@@ -37186,12 +37186,12 @@ share IN
 , ,
 from IN
 $ NN
-123.9 IN
+123.9 CD
 million NN
 , ,
 or IN
 $ IN
-1.37 IN
+1.37 CD
 a IN
 share IN
 , ,
@@ -37209,7 +37209,7 @@ one-time RB
 gain NNS
 of CC
 $ VBZ
-59.9 VBN
+59.9 CD
 million PRP
 from DT
 the NNP
@@ -37288,7 +37288,7 @@ $ VBZ
 million PRP
 from VBZ
 $ VBG
-625.4 VBN
+625.4 CD
 million DT
 . .
 
@@ -37410,7 +37410,7 @@ Corning NN
 closed NN
 at VBP
 $ VBZ
-38.50 IN
+38.50 CD
 , ,
 down NN
 75 CD
@@ -37537,10 +37537,10 @@ industrial RB
 average IN
 closed NN
 down NN
-18.65 NN
+18.65 CD
 , ,
 to IN
-2638.73 IN
+2638.73 CD
 . .
 
 New JJR
@@ -37587,7 +37587,7 @@ to IN
 on IN
 volume IN
 of CC
-2.8 NNP
+2.8 CD
 million CC
 shares MD
 . .
@@ -38073,11 +38073,11 @@ Jones NNP
 Transportation NNP
 Average IN
 fell DT
-49.96 VBD
+49.96 CD
 to IN
 close NN
 at VBP
-1254.27 NNS
+1254.27 CD
 . .
 
 AMR NN
@@ -38120,7 +38120,7 @@ to VBN
 73 CD
 1\/4 IN
 on VBN
-3.4 MD
+3.4 CD
 million VB
 shares TO
 . .
@@ -38244,7 +38244,7 @@ at NNS
 43 CD
 1\/4 VBN
 on VBN
-3.9 VBN
+3.9 CD
 million MD
 shares VB
 . .
@@ -38305,9 +38305,9 @@ Poor RB
 500-stock ``
 index IN
 fell DT
-1.69 IN
+1.69 CD
 to IN
-341.16 IN
+341.16 CD
 , ,
 and IN
 the NNS
@@ -38318,9 +38318,9 @@ Exchange IN
 Composite IN
 Index IN
 fell IN
-0.88 NN
+0.88 CD
 to NN
-188.89 NN
+188.89 CD
 . .
 
 Among CD
@@ -38478,13 +38478,13 @@ composite IN
 index IN
 closed NN
 down NN
-1.05 NNS
+1.05 CD
 to IN
-459.93 IN
+459.93 CD
 on IN
 volume IN
 of NNS
-161.5 NNP
+161.5 CD
 million CC
 shares MD
 . .
@@ -38641,7 +38641,7 @@ part CC
 of CC
 nearly CC
 $ RB
-1.2 IN
+1.2 CD
 billion IN
 in JJ
 good IN
@@ -38754,9 +38754,9 @@ Market CD
 Value CD
 Index IN
 fell DT
-1.25 IN
+1.25 CD
 to IN
-375.16 DT
+375.16 CD
 . .
 
 Volume RB
@@ -39078,7 +39078,7 @@ share IN
 on IN
 its IN
 $ IN
-16.50 RB
+16.50 CD
 cumulative VBD
 convertible IN
 preferred NNS
@@ -39552,7 +39552,7 @@ to IN
 8 CD
 % VBD
 from PRP
-7.9 VBD
+7.9 CD
 % DT
 . .
 
@@ -39619,7 +39619,7 @@ less NN
 yielded RB
 an IN
 average VBD
-8.02 IN
+8.02 CD
 % DT
 in NNS
 the NN
@@ -39629,7 +39629,7 @@ Tuesday NN
 , ,
 down PRP
 from VBD
-8.10 IN
+8.10 CD
 % NN
 , ,
 according IN
@@ -39644,13 +39644,13 @@ six-month NNS
 T-bills DT
 fell IN
 to VBD
-7.82 IN
+7.82 CD
 % JJ
 on IN
 Monday PRP
 , ,
 from VBD
-8.01 DT
+8.01 CD
 % NNS
 the VBP
 week DT
@@ -39672,7 +39672,7 @@ $ NN
 90,000 NN
 fell DT
 to NN
-7.93 NN
+7.93 CD
 % IN
 in DT
 the VBN
@@ -39684,7 +39684,7 @@ to IN
 Banxquote IN
 , ,
 from PRP
-8.10 VBD
+8.10 CD
 % DT
 the NNS
 week VBP
@@ -39763,7 +39763,7 @@ was IN
 yielding IN
 an IN
 average IN
-8.09 IN
+8.09 CD
 % DT
 in VBN
 the NNS
@@ -40184,7 +40184,7 @@ increased NN
 ownership NN
 -LRB- NN
 currently VBD
-4.5 JJ
+4.5 CD
 % DT
 -RRB- TO
 . .
@@ -41089,7 +41089,7 @@ May NN
 filed IN
 a VBZ
 $ NNP
-2.5 RB
+2.5 CD
 billion RB
 antitrust RB
 suit RB
@@ -41934,10 +41934,10 @@ common MD
 shares $
 for VBZ
 $ IN
-2.25 VBZ
+2.25 CD
 to VBZ
 $ VBZ
-2.375 TO
+2.375 CD
 each TO
 . .
 
@@ -41947,7 +41947,7 @@ increased NN
 his NN
 stake NN
 to IN
-16.2 VBD
+16.2 CD
 % CC
 of DT
 the MD
@@ -42323,7 +42323,7 @@ an NNS
 intraday NNS
 low IN
 of CC
-140.95 CC
+140.95 CD
 yen CC
 . .
 
@@ -42341,7 +42341,7 @@ its CC
 intraday NNS
 low NNP
 of CC
-1.8435 CC
+1.8435 CD
 marks <PAD>
 until <PAD>
 two NN
@@ -42359,7 +42359,7 @@ York RB
 time VBP
 at NNS
 around NN
-1.85 POS
+1.85 CD
 marks NN
 and IN
 141 CD
@@ -42429,7 +42429,7 @@ Department NN
 reported DT
 a NN
 $ VBZ
-10.77 NN
+10.77 CD
 billion RB
 deficit VBZ
 in VBZ
@@ -42443,7 +42443,7 @@ July NNP
 deficit VBZ
 of CC
 $ VBZ
-8.24 VBZ
+8.24 CD
 billion VBZ
 . .
 
@@ -42452,7 +42452,7 @@ had NN
 expected JJ
 a IN
 $ VBZ
-9.1 TO
+9.1 CD
 billion RB
 gap NN
 . .
@@ -42462,14 +42462,14 @@ August NN
 figure NN
 reflected NN
 a IN
-6.4 VBD
+6.4 CD
 % NNS
 rise IN
 in VBN
 imports POS
 and IN
 a NNP
-0.2 VBD
+0.2 CD
 % NNP
 drop IN
 in RB
@@ -42594,24 +42594,24 @@ dollar NNS
 was IN
 quoted IN
 at VBP
-1.8667 NNS
+1.8667 CD
 marks NNS
 , ,
 down IN
 from PRP
-1.8685 NN
+1.8685 CD
 marks NN
 late NN
 Monday JJ
 , ,
 and POS
 at VBP
-142.75 NNS
+142.75 CD
 yen NNS
 , ,
 up NNS
 from PRP
-141.85 VBN
+141.85 CD
 yen NN
 late JJ
 Monday DT
@@ -42622,7 +42622,7 @@ was NNS
 unchanged VBP
 at VBZ
 $ DT
-1.5753 TO
+1.5753 CD
 . .
 
 In IN
@@ -42636,7 +42636,7 @@ opened DT
 for CC
 trading NNP
 at CC
-142.55 NNP
+142.55 CD
 yen IN
 , ,
 unchanged PRP
@@ -42655,7 +42655,7 @@ currency DT
 fell DT
 to NN
 about NN
-142.25 NN
+142.25 CD
 yen IN
 on IN
 news NN
@@ -42787,10 +42787,10 @@ have NNS
 set CC
 ranges CC
 of IN
-1.70 NN
+1.70 CD
 marks IN
 to NN
-1.90 NNP
+1.90 CD
 marks IN
 and IN
 120 CD
@@ -42835,7 +42835,7 @@ The DT
 Fed CD
 arranged VBZ
 $ NNS
-1.5 RB
+1.5 CD
 billion CC
 of CC
 customer NNS
@@ -43008,7 +43008,7 @@ delivery NN
 settled NN
 at VBP
 $ VBZ
-367.40 RB
+367.40 CD
 an RB
 ounce IN
 , ,
@@ -43022,7 +43022,7 @@ volume RB
 was IN
 a IN
 moderate IN
-3.5 IN
+3.5 CD
 million DT
 ounces TO
 . .
@@ -43039,7 +43039,7 @@ gold NN
 was IN
 at VBP
 $ VBZ
-366.55 RB
+366.55 CD
 an RB
 ounce DT
 . .
@@ -43287,7 +43287,7 @@ the IN
 competition VBD
 with POS
 a NN
-14.8 IN
+14.8 CD
 rating DT
 and TO
 25 CD
@@ -43299,7 +43299,7 @@ was IN
 second NN
 with NNP
 a IN
-13.9 NNP
+13.9 CD
 rating POS
 and NNP
 24 CD
@@ -43313,7 +43313,7 @@ television NNS
 network NNP
 with IN
 a NNS
-12.5 NNP
+12.5 CD
 rating POS
 and CD
 21 CD
@@ -43683,7 +43683,7 @@ concern IN
 , ,
 said IN
 the IN
-8.1 VBD
+8.1 CD
 % NN
 loan NN
 is NN
@@ -43856,7 +43856,7 @@ holds DT
 up VBZ
 the RB
 $ RB
-156.7 NNS
+156.7 CD
 billion $
 funding DT
 bill DT
@@ -44097,7 +44097,7 @@ Zealand NN
 dollars IN
 -LRB- NN
 US$ NN
-105.4 JJ
+105.4 CD
 million DT
 -RRB- TO
 . .
@@ -44607,7 +44607,7 @@ interest VBZ
 rate NN
 fell DT
 to IN
-8.292 NN
+8.292 CD
 % VBD
 at VBP
 Citicorp NN
@@ -44627,7 +44627,7 @@ corporate IN
 IOUs PRP
 , ,
 from VBP
-8.483 NNP
+8.483 CD
 % NNS
 at ``
 last NNP
@@ -44649,7 +44649,7 @@ accepted NNP
 bids VBD
 were VBP
 at VBP
-8.292 VBD
+8.292 CD
 % DT
 . .
 
@@ -44662,7 +44662,7 @@ average IN
 rate NN
 fell DT
 to IN
-7.986 NN
+7.986 CD
 % NN
 at VBP
 its CC
@@ -44675,7 +44675,7 @@ of CC
 commercial NN
 paper PRP
 from VBD
-8.1255 VBP
+8.1255 CD
 % NNP
 at NNS
 last ``
@@ -44697,7 +44697,7 @@ accepted NNP
 bids VBD
 were VBP
 at VBP
-7.986 VBD
+7.986 CD
 % DT
 . .
 
@@ -44782,7 +44782,7 @@ million IN
 francs VBZ
 -LRB- VBN
 $ JJ
-38.4 IN
+38.4 CD
 million NNS
 -RRB- NNP
 , ,
@@ -44793,7 +44793,7 @@ million VBN
 francs JJ
 -LRB- IN
 $ DT
-20.5 IN
+20.5 CD
 million CC
 -RRB- TO
 in CC
@@ -44943,11 +44943,11 @@ in IN
 consolidated VBN
 revenue DT
 to IN
-10.16 RB
+10.16 CD
 billion PRP
 francs PRP
 from RB
-8.85 IN
+8.85 CD
 billion IN
 a IN
 year DT
@@ -45214,23 +45214,23 @@ Net IN
 fell DT
 to IN
 $ VBZ
-40.1 NN
+40.1 CD
 million IN
 , ,
 or VBZ
 $ NN
-1.50 IN
+1.50 CD
 a IN
 share IN
 , ,
 from VBZ
 $ NN
-60.7 IN
+60.7 CD
 million NN
 , ,
 or IN
 $ IN
-2.32 IN
+2.32 CD
 a IN
 share IN
 , ,
@@ -45244,15 +45244,15 @@ for $
 the DT
 quarter RB
 slipped NN
-2.7 VBD
+2.7 CD
 % IN
 to VBZ
 $ VBN
-601.3 PRP
+601.3 CD
 million VBZ
 from VBN
 $ DT
-618.1 TO
+618.1 CD
 million TO
 . .
 
@@ -45339,7 +45339,7 @@ the RB
 quarter CC
 of VBZ
 $ VB
-30.1 IN
+30.1 CD
 million NN
 , ,
 less NN
@@ -45347,7 +45347,7 @@ than DT
 half VBZ
 the NN
 $ CC
-64.1 DT
+64.1 CD
 million DT
 of RB
 the DT
@@ -45366,11 +45366,11 @@ declined NN
 slightly NN
 to VBZ
 $ NN
-24.3 PRP
+24.3 CD
 million VBZ
 from VBN
 $ DT
-24.9 TO
+24.9 CD
 million TO
 . .
 
@@ -45390,7 +45390,7 @@ $ VBZ
 million VBN
 from PRP
 $ VBZ
-10.1 VBN
+10.1 CD
 million DT
 . .
 
@@ -45411,10 +45411,10 @@ Ohio-based DT
 company VBZ
 fell NNS
 $ IN
-1.375 VBZ
+1.375 CD
 to DT
 $ TO
-49.125 DT
+49.125 CD
 . .
 
 Fiat VBZ
@@ -45795,7 +45795,7 @@ holding NNS
 in IN
 Jaguar IN
 to IN
-10.4 IN
+10.4 CD
 % PRP
 from NN
 5 CD
@@ -46015,7 +46015,7 @@ Stock VBD
 Exchange VBN
 Monday JJ
 , ,
-18.5 NN
+18.5 CD
 million MD
 shares VBD
 were VBN
@@ -46414,10 +46414,10 @@ and JJ
 10 CD
 -LRB- VBZ
 $ IN
-12.60 VBZ
+12.60 CD
 to JJ
 $ DT
-15.80 TO
+15.80 CD
 -RRB- JJ
 . .
 
@@ -46674,14 +46674,14 @@ Dec. NNP
 Revenue DT
 : IN
 $ VBZ
-1.71 RB
+1.71 CD
 billion TO
 
 Net IN
 income NN
 : IN
 $ VBZ
-44.9 VBZ
+44.9 CD
 million VBZ
 ; NN
 or NN
@@ -46704,14 +46704,14 @@ Net IN
 loss JJ
 : IN
 $ VBZ
-1.7 VBZ
+1.7 CD
 million VB
 vs. IN
 net NN
 income IN
 : VBZ
 $ NN
-21.2 VBZ
+21.2 CD
 million NN
 ; NN
 or RB
@@ -46729,7 +46729,7 @@ Ordinary NNP
 shares IN
 outstanding VB
 : TO
-182.9 VB
+182.9 CD
 million VB
 
 NOTE NNS
@@ -46825,7 +46825,7 @@ Hollander JJ
 who IN
 holds IN
 a IN
-49.4 IN
+49.4 CD
 % IN
 stake IN
 , ,
@@ -46982,12 +46982,12 @@ rose NN
 25 CD
 % IN
 to RB
-9.482 RB
+9.482 CD
 billion IN
 francs VBZ
 -LRB- RB
 $ JJ
-5.80 IN
+5.80 CD
 billion DT
 -RRB- JJ
 in JJ
@@ -47012,7 +47012,7 @@ year IN
 earlier IN
 sales NNP
 totaled NNP
-7.567 RB
+7.567 CD
 billion RB
 francs DT
 . .
@@ -47105,11 +47105,11 @@ year IN
 
 The DT
 # JJ
-76.6 NN
+76.6 CD
 million IN
 -LRB- VBZ
 $ VBN
-120.6 JJ
+120.6 CD
 million IN
 -RRB- JJ
 in MD
@@ -47189,7 +47189,7 @@ steep NN
 , ,
 to IN
 # JJ
-51.1 NN
+51.1 CD
 million PRP
 from JJ
 # NN
@@ -47206,11 +47206,11 @@ up VBD
 fractionally IN
 to JJ
 # NN
-626.3 PRP
+626.3 CD
 million JJ
 from JJ
 # VB
-625.4 IN
+625.4 CD
 million IN
 a IN
 year IN
@@ -47288,7 +47288,7 @@ Sept. NNP
 30 CD
 of NNP
 $ VBN
-49.6 IN
+49.6 CD
 million NN
 , ,
 or IN
@@ -47300,7 +47300,7 @@ share PRP
 up NN
 from IN
 $ NN
-36.6 NN
+36.6 CD
 million NN
 , ,
 or IN
@@ -47319,12 +47319,12 @@ Revenue DT
 rose NN
 to IN
 $ VBZ
-235.2 NN
+235.2 CD
 million IN
 , ,
 from VBZ
 $ NN
-176.4 DT
+176.4 CD
 million TO
 . .
 
@@ -47349,7 +47349,7 @@ Oct. NN
 causing IN
 a IN
 $ IN
-6.50 IN
+6.50 CD
 a IN
 share IN
 jump IN
@@ -47380,7 +47380,7 @@ Microsoft NNS
 stock VBD
 rose NN
 $ VBZ
-2.875 IN
+2.875 CD
 a IN
 share IN
 in IN
@@ -47389,7 +47389,7 @@ over-the-counter NNP
 trading IN
 to VBZ
 $ DT
-78.625 TO
+78.625 CD
 . .
 
 The DT
@@ -47410,7 +47410,7 @@ but VBZ
 collapsed IN
 to VBZ
 $ VBZ
-73.50 DT
+73.50 CD
 in NN
 the NN
 Friday NN
@@ -47515,7 +47515,7 @@ of NNP
 revenues NN
 -- IN
 to IN
-21.1 NN
+21.1 CD
 % IN
 in DT
 the DT
@@ -47523,7 +47523,7 @@ quarter IN
 , ,
 compared NNP
 with VBD
-20.7 IN
+20.7 CD
 % IN
 a IN
 year IN
@@ -47832,7 +47832,7 @@ SKIDDED RB
 an NN
 additional VBZ
 $ NNP
-24.875 IN
+24.875 CD
 , ,
 to VBZ
 $ NNP
@@ -47854,7 +47854,7 @@ of VBP
 the CC
 aborted VBN
 $ JJ
-6.79 ``
+6.79 CD
 billion RB
 buy-out DT
 of TO
@@ -47868,7 +47868,7 @@ UAL NNP
 has DT
 fallen NNP
 $ VBZ
-87.25 IN
+87.25 CD
 , ,
 or NN
 31 CD
@@ -47945,16 +47945,16 @@ Jones NNP
 industrials NN
 closed NN
 off NN
-18.65 NN
+18.65 CD
 points CD
 , ,
 at VBP
-2638.73 RB
+2638.73 CD
 , ,
 after NN
 plunging NN
 over NN
-60.25 NNS
+60.25 CD
 points CD
 in IN
 the DT
@@ -47984,7 +47984,7 @@ deficit VB
 swelled NN
 to VBZ
 $ NN
-10.77 RB
+10.77 CD
 billion IN
 in VBZ
 August IN
@@ -48039,7 +48039,7 @@ in TO
 Industrial RB
 output NN
 fell DT
-0.1 JJ
+0.1 CD
 % VBD
 in IN
 September IN
@@ -48066,7 +48066,7 @@ Bankers NNP
 Trust VBD
 added CD
 $ VBZ
-1.6 NNP
+1.6 CD
 billion RB
 to IN
 reserves IN
@@ -48406,22 +48406,22 @@ shares MD
 Dow NNP
 Jones NNP
 industrials NN
-2638.73 RB
+2638.73 CD
 , ,
 off IN
-18.65 NN
+18.65 CD
 ; NN
 transportation NNS
-1254.27 NNS
+1254.27 CD
 , ,
 off IN
-49.96 VBD
+49.96 CD
 ; VBD
 utilities NN
-214.54 IN
+214.54 CD
 , ,
 off NNP
-0.19 DT
+0.19 CD
 . .
 
 Bonds CD
@@ -48431,7 +48431,7 @@ Lehman VB
 Hutton VB
 Treasury RB
 index IN
-3377.43 IN
+3377.43 CD
 , ,
 off TO
 
@@ -48441,31 +48441,31 @@ Dow IN
 Jones NNP
 futures NNP
 index IN
-129.72 IN
+129.72 CD
 , ,
 unchanged IN
 ; NNS
 spot IN
 index IN
-129.97 IN
+129.97 CD
 , ,
 off DT
-0.19 TO
+0.19 CD
 . .
 
 Dollar NNS
 : IN
-142.75 IN
+142.75 CD
 yen IN
 , ,
 up IN
-0.95 :
+0.95 CD
 ; :
-1.8667 CC
+1.8667 CD
 marks IN
 , ,
 off DT
-0.0018 TO
+0.0018 CD
 . .
 
 Paul JJ
@@ -48649,7 +48649,7 @@ McGill JJ
 shares $
 for VBZ
 $ VB
-7.3 IN
+7.3 CD
 million IN
 in JJ
 a NN
@@ -48830,16 +48830,16 @@ exceptional VBN
 items IN
 , ,
 to NN
-133.8 VBN
+133.8 CD
 million IN
 francs VBZ
 -LRB- IN
 $ VBN
-21.1 JJ
+21.1 CD
 million PRP
 -RRB- NN
 from VB
-130.1 IN
+130.1 CD
 million IN
 francs IN
 a IN
@@ -48867,7 +48867,7 @@ be NN
 close DT
 to NN
 the NN
-322.7 NNS
+322.7 CD
 million $
 francs RB
 posted CD
@@ -48900,7 +48900,7 @@ of JJ
 this CC
 year IN
 totaled VBN
-246.6 VBN
+246.6 CD
 million VBN
 francs VBN
 , ,
@@ -48910,7 +48910,7 @@ the VBG
 year-earlier NN
 figure NN
 of VBN
-124.5 DT
+124.5 CD
 million TO
 francs TO
 . .
