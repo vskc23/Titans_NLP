@@ -2,7 +2,7 @@
 This Repository is for submitting individual implemented algorithms and the associated predicted pos tag output file.
 
 We have implemented three models for POS Tagging:
-  1) Logistic Regression - 50% 
+  1) Logistic Regression - 78% 
   2) Hidden Markov Model - 87%
   3) MultiLayer Perceptron - 92%
 
