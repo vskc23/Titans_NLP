@@ -102,7 +102,7 @@ def build_vocab(sentences):
     
     return sorted(list(vocab))
 
-embs_path = './wiki-news.vec'
+embs_path = './glove_1M_300d.vec'
 
 embeddings = KeyedVectors.load_word2vec_format(embs_path, binary=False)
 
